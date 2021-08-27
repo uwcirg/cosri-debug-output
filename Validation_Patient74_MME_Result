@@ -1,0 +1,994 @@
+{
+    "context": "CQL PMP MME Result",
+    "data": [
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE BITARTRATE 5 MG-ACETAMINOPHEN 325 MG TABLET",
+            "Start": "2021-07-22",
+            "DispensedDate": "2021-07-22",
+            "CalculatedEnd": "2021-08-21",
+            "End": "2021-08-21",
+            "Quantity": 150,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 5,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 5
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 25,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "61919061890",
+            "RXNorm_Code": "857002",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 1
+        },
+        {
+            "Type": "Request",
+            "Name": "OXYCODONE HYDROCHLORIDE 30 MG TABLET",
+            "Start": "2021-06-22",
+            "DispensedDate": "2021-06-22",
+            "CalculatedEnd": "2021-07-22",
+            "End": "2021-07-22",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 30
+                }
+            ],
+            "factor": [
+                1.5
+            ],
+            "MME": 180,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "55700017590",
+            "RXNorm_Code": "1049618",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 2
+        },
+        {
+            "Type": "Request",
+            "Name": "MORPHINE SULFATE 60 MG TABLET, FILM COATED, EXTENDED RELEASE",
+            "Start": "2021-05-23",
+            "DispensedDate": "2021-05-23",
+            "CalculatedEnd": "2021-06-22",
+            "End": "2021-06-22",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 60
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 240,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "71335070707",
+            "RXNorm_Code": "891893",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 3
+        },
+        {
+            "Type": "Request",
+            "Name": "CODEINE PHOSPHATE 60 MG-ACETAMINOPHEN 300 MG TABLET",
+            "Start": "2021-05-18",
+            "DispensedDate": "2021-05-18",
+            "CalculatedEnd": "2021-05-23",
+            "End": "2021-05-23",
+            "Quantity": 30,
+            "Duration": 5,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 6,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 60
+                }
+            ],
+            "factor": [
+                0.15
+            ],
+            "MME": 54,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "67544047453",
+            "RXNorm_Code": "993890",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 4
+        },
+        {
+            "Type": "Request",
+            "Name": "ACETAMINOPHEN 300 MG-CODEINE PHOSPHATE 30 MG TABLET",
+            "Start": "2021-05-13",
+            "DispensedDate": "2021-05-13",
+            "CalculatedEnd": "2021-05-18",
+            "End": "2021-05-18",
+            "Quantity": 30,
+            "Duration": 5,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 6,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 30
+                }
+            ],
+            "factor": [
+                0.15
+            ],
+            "MME": 27,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "68071467305",
+            "RXNorm_Code": "993781",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 5
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE BITARTRATE 5 MG-ACETAMINOPHEN 325 MG TABLET",
+            "Start": "2021-04-13",
+            "DispensedDate": "2021-04-13",
+            "CalculatedEnd": "2021-05-13",
+            "End": "2021-05-13",
+            "Quantity": 150,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 5,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 5
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 25,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "61919061820",
+            "RXNorm_Code": "857002",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 6
+        },
+        {
+            "Type": "Request",
+            "Name": "OXYCODONE HYDROCHLORIDE 20 MG TABLET",
+            "Start": "2021-03-14",
+            "DispensedDate": "2021-03-14",
+            "CalculatedEnd": "2021-04-13",
+            "End": "2021-04-13",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 20
+                }
+            ],
+            "factor": [
+                1.5
+            ],
+            "MME": 120,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "71335102304",
+            "RXNorm_Code": "1049686",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 7
+        },
+        {
+            "Type": "Request",
+            "Name": "OXYCODONE HYDROCHLORIDE 10 MG TABLET",
+            "Start": "2021-02-12",
+            "DispensedDate": "2021-02-12",
+            "CalculatedEnd": "2021-03-14",
+            "End": "2021-03-14",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1.5
+            ],
+            "MME": 60,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "68084096801",
+            "RXNorm_Code": "1049683",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 8
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE BITARTRATE 10 MG-ACETAMINOPHEN 325 MG TABLET",
+            "Start": "2021-01-13",
+            "DispensedDate": "2021-01-13",
+            "CalculatedEnd": "2021-02-12",
+            "End": "2021-02-12",
+            "Quantity": 150,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 5,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 50,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "63629229801",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 9
+        },
+        {
+            "Type": "Request",
+            "Name": "ACETAMINOPHEN 325 MG-HYDROCODONE BITARTRATE 5 MG TABLET",
+            "Start": "2020-12-14",
+            "DispensedDate": "2020-12-14",
+            "CalculatedEnd": "2021-01-13",
+            "End": "2021-01-13",
+            "Quantity": 150,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 5,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 5
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 25,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "67296133301",
+            "RXNorm_Code": "857002",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 10
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE BITARTRATE 7.5 MG-ACETAMINOPHEN 325 MG TABLET",
+            "Start": "2020-11-14",
+            "DispensedDate": "2020-11-14",
+            "CalculatedEnd": "2020-12-14",
+            "End": "2020-12-14",
+            "Quantity": 150,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 5,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 7.5
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 37.5,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "00406012412",
+            "RXNorm_Code": "857005",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 11
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE BITARTRATE 5 MG-ACETAMINOPHEN 325 MG TABLET",
+            "Start": "2020-10-15",
+            "DispensedDate": "2020-10-15",
+            "CalculatedEnd": "2020-11-14",
+            "End": "2020-11-14",
+            "Quantity": 150,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 5,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 5
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 25,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "31722094105",
+            "RXNorm_Code": "857002",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 12
+        },
+        {
+            "Type": "Request",
+            "Name": "OXYCODONE HYDROCHLORIDE 30 MG TABLET",
+            "Start": "2020-09-15",
+            "DispensedDate": "2020-09-15",
+            "CalculatedEnd": "2020-10-15",
+            "End": "2020-10-15",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 30
+                }
+            ],
+            "factor": [
+                1.5
+            ],
+            "MME": 180,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "68382079701",
+            "RXNorm_Code": "1049618",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 13
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE BITARTRATE 10 MG-ACETAMINOPHEN 325 MG TABLET",
+            "Start": "2020-08-16",
+            "DispensedDate": "2020-08-16",
+            "CalculatedEnd": "2020-09-15",
+            "End": "2020-09-15",
+            "Quantity": 150,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 5,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 50,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "71335124806",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 14
+        },
+        {
+            "Type": "Request",
+            "Name": "BUPRENORPHINE HYDROCHLORIDE 2 MG-NALOXONE HYDROCHLORIDE DIHYDRATE .5 MG TABLET",
+            "Start": "2020-07-17",
+            "DispensedDate": "2020-07-17",
+            "CalculatedEnd": "2020-08-16",
+            "End": "2020-08-16",
+            "Quantity": 60,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 2
+                }
+            ],
+            "factor": [
+                30
+            ],
+            "MME": 120,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "63629727002",
+            "RXNorm_Code": "351266",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 15
+        },
+        {
+            "Type": "Request",
+            "Name": "FENTANYL 25 UG/H PATCH",
+            "Start": "2020-06-17",
+            "DispensedDate": "2020-06-17",
+            "CalculatedEnd": "2020-07-17",
+            "End": "2020-07-17",
+            "Quantity": 10,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 0.3333333333333333,
+            "strength": [
+                {
+                    "unit": "ug/h",
+                    "value": 25
+                }
+            ],
+            "factor": [
+                7.2
+            ],
+            "MME": 59.99999999999999,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "00378912198",
+            "RXNorm_Code": "245134",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 16
+        },
+        {
+            "Type": "Request",
+            "Name": "TRAMADOL HYDROCHLORIDE 50 MG TABLET, FILM COATED",
+            "Start": "2020-05-18",
+            "DispensedDate": "2020-05-18",
+            "CalculatedEnd": "2020-06-17",
+            "End": "2020-06-17",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 50
+                }
+            ],
+            "factor": [
+                0.1
+            ],
+            "MME": 20,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "65841075405",
+            "RXNorm_Code": "835603",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 17
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE BITARTRATE 7.5 MG-ACETAMINOPHEN 325 MG TABLET",
+            "Start": "2020-04-18",
+            "DispensedDate": "2020-04-18",
+            "CalculatedEnd": "2020-05-18",
+            "End": "2020-05-18",
+            "Quantity": 150,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 5,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 7.5
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 37.5,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "55700082360",
+            "RXNorm_Code": "857005",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 18
+        },
+        {
+            "Type": "Request",
+            "Name": "TRAMADOL HYDROCHLORIDE 50 MG TABLET, FILM COATED",
+            "Start": "2020-03-19",
+            "DispensedDate": "2020-03-19",
+            "CalculatedEnd": "2020-04-18",
+            "End": "2020-04-18",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 50
+                }
+            ],
+            "factor": [
+                0.1
+            ],
+            "MME": 20,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "71205006640",
+            "RXNorm_Code": "835603",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 19
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE BITARTRATE 7.5 MG-ACETAMINOPHEN 325 MG TABLET",
+            "Start": "2020-02-18",
+            "DispensedDate": "2020-02-18",
+            "CalculatedEnd": "2020-03-19",
+            "End": "2020-03-19",
+            "Quantity": 150,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 5,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 7.5
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 37.5,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "71335006308",
+            "RXNorm_Code": "857005",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 20
+        },
+        {
+            "Type": "Request",
+            "Name": "OXYCODONE HYDROCHLORIDE 5 MG-ACETAMINOPHEN 325 MG TABLET",
+            "Start": "2020-01-19",
+            "DispensedDate": "2020-01-19",
+            "CalculatedEnd": "2020-02-18",
+            "End": "2020-02-18",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 5
+                }
+            ],
+            "factor": [
+                1.5
+            ],
+            "MME": 30,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "71335021606",
+            "RXNorm_Code": "1049221",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 21
+        },
+        {
+            "Type": "Request",
+            "Name": "ACETAMINOPHEN 325 MG-CAFFEINE 30 MG-DIHYDROCODEINE BITARTRATE 16 MG TABLET",
+            "Start": "2020-01-14",
+            "DispensedDate": "2020-01-14",
+            "CalculatedEnd": "2020-01-19",
+            "End": "2020-01-19",
+            "Quantity": 30,
+            "Duration": 5,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 6,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 16
+                }
+            ],
+            "factor": [
+                0.25
+            ],
+            "MME": 24,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "68047072001",
+            "RXNorm_Code": "1812164",
+            "Status": null,
+            "Class": [
+                "opioid",
+                "stimulant"
+            ],
+            "_id": 22
+        },
+        {
+            "Type": "Request",
+            "Name": "MORPHINE SULFATE 100 MG TABLET",
+            "Start": "2019-12-15",
+            "DispensedDate": "2019-12-15",
+            "CalculatedEnd": "2020-01-14",
+            "End": "2020-01-14",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 100
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 400,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "42858079950",
+            "RXNorm_Code": "892560",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 23
+        },
+        {
+            "Type": "Request",
+            "Name": "OXYCODONE HYDROCHLORIDE 10 MG-ACETAMINOPHEN 325 MG TABLET",
+            "Start": "2019-11-15",
+            "DispensedDate": "2019-11-15",
+            "CalculatedEnd": "2019-12-15",
+            "End": "2019-12-15",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1.5
+            ],
+            "MME": 60,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "61919087190",
+            "RXNorm_Code": "1049214",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 24
+        },
+        {
+            "Type": "Request",
+            "Name": "ACETAMINOPHEN 300 MG-CODEINE PHOSPHATE 30 MG TABLET",
+            "Start": "2019-11-10",
+            "DispensedDate": "2019-11-10",
+            "CalculatedEnd": "2019-11-15",
+            "End": "2019-11-15",
+            "Quantity": 30,
+            "Duration": 5,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 6,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 30
+                }
+            ],
+            "factor": [
+                0.15
+            ],
+            "MME": 27,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "61919048490",
+            "RXNorm_Code": "993781",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 25
+        },
+        {
+            "Type": "Request",
+            "Name": "ACETAMINOPHEN 300 MG-CODEINE PHOSPHATE 30 MG TABLET",
+            "Start": "2019-11-05",
+            "DispensedDate": "2019-11-05",
+            "CalculatedEnd": "2019-11-10",
+            "End": "2019-11-10",
+            "Quantity": 30,
+            "Duration": 5,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 6,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 30
+                }
+            ],
+            "factor": [
+                0.15
+            ],
+            "MME": 27,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "60760046630",
+            "RXNorm_Code": "993781",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 26
+        },
+        {
+            "Type": "Request",
+            "Name": "ACETAMINOPHEN 300 MG-CODEINE PHOSPHATE 30 MG TABLET",
+            "Start": "2019-10-31",
+            "DispensedDate": "2019-10-31",
+            "CalculatedEnd": "2019-11-05",
+            "End": "2019-11-05",
+            "Quantity": 30,
+            "Duration": 5,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 6,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 30
+                }
+            ],
+            "factor": [
+                0.15
+            ],
+            "MME": 27,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "65162003311",
+            "RXNorm_Code": "993781",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 27
+        },
+        {
+            "Type": "Request",
+            "Name": "OXYCODONE HYDROCHLORIDE 5 MG-ACETAMINOPHEN 325 MG TABLET",
+            "Start": "2019-10-01",
+            "DispensedDate": "2019-10-01",
+            "CalculatedEnd": "2019-10-31",
+            "End": "2019-10-31",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 5
+                }
+            ],
+            "factor": [
+                1.5
+            ],
+            "MME": 30,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "67296139205",
+            "RXNorm_Code": "1049221",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 28
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROMORPHONE HYDROCHLORIDE 2 MG TABLET",
+            "Start": "2019-09-01",
+            "DispensedDate": "2019-09-01",
+            "CalculatedEnd": "2019-10-01",
+            "End": "2019-10-01",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 2
+                }
+            ],
+            "factor": [
+                4
+            ],
+            "MME": 32,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "71335075904",
+            "RXNorm_Code": "897696",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 29
+        }
+    ],
+    "filename": "Validation_Patient74_MME_Result",
+    "timestamp": "2021-08-27T20:40:03.792Z"
+}
