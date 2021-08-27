@@ -1,0 +1,169 @@
+{
+    "context": "CQL PMP MME Result",
+    "data": [
+        {
+            "Type": "Request",
+            "Name": "flurazepam hydrochloride 30 MG Oral Capsule",
+            "Start": "2021-01-10",
+            "DispensedDate": null,
+            "CalculatedEnd": null,
+            "End": null,
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "52959023624",
+            "RXNorm_Code": "1298091",
+            "Status": null,
+            "Class": [
+                "benzodiazepine"
+            ],
+            "_id": 1
+        },
+        {
+            "Type": "Request",
+            "Name": "20 ML brexanolone 5 MG/ML Injection [Zulresso]",
+            "Start": "2019-01-10",
+            "DispensedDate": null,
+            "CalculatedEnd": null,
+            "End": null,
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "72152054720",
+            "RXNorm_Code": "2121786",
+            "Status": null,
+            "Class": [
+                "steroid"
+            ],
+            "_id": 2
+        },
+        {
+            "Type": "Request",
+            "Name": "methyltestosterone 10 MG Oral Tablet [Methitest]",
+            "Start": "2021-01-10",
+            "DispensedDate": "2021-01-10",
+            "CalculatedEnd": "2021-02-09",
+            "End": "2021-02-09",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "00115703701",
+            "RXNorm_Code": "541524",
+            "Status": null,
+            "Class": [
+                "steroid"
+            ],
+            "_id": 3
+        },
+        {
+            "Type": "Request",
+            "Name": "amphetamine aspartate 2.5 MG [Adderall]",
+            "Start": "2020-12-06",
+            "DispensedDate": "2020-12-06",
+            "CalculatedEnd": "2021-01-05",
+            "End": "2021-01-05",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan, INC.",
+            "NDC_Code": "57844011001",
+            "RXNorm_Code": "541894",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 4
+        },
+        {
+            "Type": "Request",
+            "Name": "amobarbital sodium 500 MG Injection [Amytal]",
+            "Start": "2019-08-14",
+            "DispensedDate": "2019-08-14",
+            "CalculatedEnd": "2019-08-15",
+            "End": "2019-08-15",
+            "Quantity": 1,
+            "Duration": 1,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "00187430305",
+            "RXNorm_Code": "201628",
+            "Status": null,
+            "Class": [
+                "barbiturate"
+            ],
+            "_id": 5
+        },
+        {
+            "Type": "Request",
+            "Name": "zaleplon 5 MG Oral Capsule [Sonata]",
+            "Start": "2019-01-10",
+            "DispensedDate": "2019-01-10",
+            "CalculatedEnd": "2019-02-09",
+            "End": "2019-02-09",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "52959088130",
+            "RXNorm_Code": "261285",
+            "Status": null,
+            "Class": [
+                "sedative"
+            ],
+            "_id": 6
+        }
+    ],
+    "filename": "Huit_Val_MME_Result",
+    "timestamp": "2021-08-27T00:31:49.419Z"
+}

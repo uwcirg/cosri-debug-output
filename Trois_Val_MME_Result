@@ -1,0 +1,358 @@
+{
+    "context": "CQL PMP MME Result",
+    "data": [
+        {
+            "Type": "Request",
+            "Name": "estazolam 1 MG Oral Tablet",
+            "Start": "2021-04-10",
+            "DispensedDate": "2021-04-10",
+            "CalculatedEnd": "2021-05-10",
+            "End": "2021-05-10",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "70954048010",
+            "RXNorm_Code": "197653",
+            "Status": null,
+            "Class": [
+                "benzodiazepine"
+            ],
+            "_id": 1
+        },
+        {
+            "Type": "Request",
+            "Name": "POTIGA (ezogabine)TAB CV 300MG",
+            "Start": "2020-10-10",
+            "DispensedDate": "2020-10-10",
+            "CalculatedEnd": "2020-11-09",
+            "End": "2020-11-09",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "0173081359",
+            "RXNorm_Code": null,
+            "Status": null,
+            "Class": null,
+            "_id": 2
+        },
+        {
+            "Type": "Request",
+            "Name": "atropine sulfate 0.025 MG / diphenoxylate hydrochloride 2.5 MG",
+            "Start": "2021-01-10",
+            "DispensedDate": null,
+            "CalculatedEnd": null,
+            "End": null,
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "43063008904",
+            "RXNorm_Code": "1190572",
+            "Status": null,
+            "Class": [],
+            "_id": 3
+        },
+        {
+            "Type": "Request",
+            "Name": "dronabinol 5 MG/ML Oral Solution [Syndros] ",
+            "Start": "2019-01-10",
+            "DispensedDate": null,
+            "CalculatedEnd": null,
+            "End": null,
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "78613020130",
+            "RXNorm_Code": "1928954",
+            "Status": null,
+            "Class": [
+                "cannabinoid"
+            ],
+            "_id": 4
+        },
+        {
+            "Type": "Request",
+            "Name": "dihydrocodeine bitartrate 16 MG Oral Tablet [Dvorah]",
+            "Start": "2021-01-10",
+            "DispensedDate": "2021-01-10",
+            "CalculatedEnd": "2021-02-09",
+            "End": "2021-02-09",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 16
+                }
+            ],
+            "factor": [
+                0.25
+            ],
+            "MME": 4,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "70569015230",
+            "RXNorm_Code": "2105929",
+            "Status": null,
+            "Class": [
+                "opioid",
+                "stimulant"
+            ],
+            "_id": 5
+        },
+        {
+            "Type": "Request",
+            "Name": "diazepam 2 MG Oral Tablet [Valium]",
+            "Start": "2020-12-06",
+            "DispensedDate": "2020-12-06",
+            "CalculatedEnd": "2021-01-05",
+            "End": "2021-01-05",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan, INC.",
+            "NDC_Code": "00140000401",
+            "RXNorm_Code": "104699",
+            "Status": null,
+            "Class": [
+                "benzodiazepine"
+            ],
+            "_id": 6
+        },
+        {
+            "Type": "Request",
+            "Name": "estrogens, conjugated (USP) 0.625 MG Oral Tablet [Premarin]",
+            "Start": "2020-09-01",
+            "DispensedDate": "2020-09-01",
+            "CalculatedEnd": "2020-10-01",
+            "End": "2020-10-01",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "00046110291",
+            "RXNorm_Code": "150840",
+            "Status": null,
+            "Class": [
+                "steroid"
+            ],
+            "_id": 7
+        },
+        {
+            "Type": "Request",
+            "Name": "eluxadoline 100 MG Oral Tablet [Viberzi]",
+            "Start": "2020-06-10",
+            "DispensedDate": "2020-07-08",
+            "CalculatedEnd": "2020-08-07",
+            "End": "2020-08-07",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "61874010008",
+            "RXNorm_Code": "1719766",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 8
+        },
+        {
+            "Type": "Request",
+            "Name": "diethylpropion hydrochloride 25 MG Oral Tablet [Tenuate]",
+            "Start": "2019-08-14",
+            "DispensedDate": "2019-08-14",
+            "CalculatedEnd": "2019-08-15",
+            "End": "2019-08-15",
+            "Quantity": 1,
+            "Duration": 1,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "62682706504",
+            "RXNorm_Code": "978662",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 9
+        },
+        {
+            "Type": "Request",
+            "Name": "fenfluramine 2.2 MG/ML Oral Solution [Fintepla]",
+            "Start": "2019-07-09",
+            "DispensedDate": "2019-07-09",
+            "CalculatedEnd": "2019-08-08",
+            "End": "2019-08-08",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "43376032230\t",
+            "RXNorm_Code": null,
+            "Status": null,
+            "Class": null,
+            "_id": 10
+        },
+        {
+            "Type": "Request",
+            "Name": "eszopiclone 1 MG Oral Tablet",
+            "Start": "2019-02-10",
+            "DispensedDate": "2019-02-10",
+            "CalculatedEnd": "2019-03-12",
+            "End": "2019-03-12",
+            "Quantity": 90,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 3,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "47335058683",
+            "RXNorm_Code": "485440",
+            "Status": null,
+            "Class": [
+                "sedative"
+            ],
+            "_id": 11
+        },
+        {
+            "Type": "Request",
+            "Name": "dextroamphetamine sulfate 5 MG Oral Tablet [Zenzedi]",
+            "Start": "2019-01-10",
+            "DispensedDate": "2019-01-10",
+            "CalculatedEnd": "2019-02-09",
+            "End": "2019-02-09",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "24338085103",
+            "RXNorm_Code": "1425339",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 12
+        },
+        {
+            "Type": "Request",
+            "Name": "fluoxymesterone 10 MG Oral Tablet [Androxy",
+            "Start": "2019-01-10",
+            "DispensedDate": "2019-01-10",
+            "CalculatedEnd": "2019-02-09",
+            "End": "2019-02-09",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "\t00832008600",
+            "RXNorm_Code": null,
+            "Status": null,
+            "Class": null,
+            "_id": 13
+        }
+    ],
+    "filename": "Trois_Val_MME_Result",
+    "timestamp": "2021-08-27T00:34:53.032Z"
+}

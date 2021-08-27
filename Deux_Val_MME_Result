@@ -1,0 +1,373 @@
+{
+    "context": "CQL PMP MME Result",
+    "data": [
+        {
+            "Type": "Request",
+            "Name": "carisoprodol 250 MG Oral Tablet",
+            "Start": "2021-01-10",
+            "DispensedDate": "2021-01-10",
+            "CalculatedEnd": "2021-01-11",
+            "End": "2021-01-11",
+            "Quantity": 1,
+            "Duration": 1,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "35356050130",
+            "RXNorm_Code": "730918",
+            "Status": null,
+            "Class": [
+                "muscle relaxant"
+            ],
+            "_id": 1
+        },
+        {
+            "Type": "Request",
+            "Name": "acetaminophen 300 MG / butalbital 50 MG Oral Tablet",
+            "Start": "2020-12-06",
+            "DispensedDate": "2020-12-06",
+            "CalculatedEnd": "2021-01-05",
+            "End": "2021-01-05",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan, INC.",
+            "NDC_Code": "68682030601",
+            "RXNorm_Code": "1249617",
+            "Status": null,
+            "Class": [
+                "barbiturate"
+            ],
+            "_id": 2
+        },
+        {
+            "Type": "Request",
+            "Name": "butorphanol 10 MG/ML ",
+            "Start": "2019-08-14",
+            "DispensedDate": "2019-08-14",
+            "CalculatedEnd": "2019-08-15",
+            "End": "2019-08-15",
+            "Quantity": 1,
+            "Duration": 1,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "58198004701",
+            "RXNorm_Code": "1302739",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 3
+        },
+        {
+            "Type": "Request",
+            "Name": "buprenorphine 1.4 MG Tablet",
+            "Start": "2019-01-10",
+            "DispensedDate": "2019-01-10",
+            "CalculatedEnd": "2019-02-09",
+            "End": "2019-02-09",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 1.4
+                }
+            ],
+            "factor": [
+                30
+            ],
+            "MME": 42,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "54123091430",
+            "RXNorm_Code": "1431083",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 4
+        },
+        {
+            "Type": "Request",
+            "Name": "chlordiazepoxide hydrochloride 5 MG Oral Tablet",
+            "Start": "2021-01-10",
+            "DispensedDate": null,
+            "CalculatedEnd": null,
+            "End": null,
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "00187410010",
+            "RXNorm_Code": "889616",
+            "Status": null,
+            "Class": [
+                "benzodiazepine"
+            ],
+            "_id": 5
+        },
+        {
+            "Type": "Request",
+            "Name": "clobazam 10 MG Oral Tablet [Onfi]",
+            "Start": "2019-01-10",
+            "DispensedDate": null,
+            "CalculatedEnd": null,
+            "End": null,
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "67386031401",
+            "RXNorm_Code": "1191056",
+            "Status": null,
+            "Class": [
+                "benzodiazepine",
+                "antiepileptic"
+            ],
+            "_id": 6
+        },
+        {
+            "Type": "Request",
+            "Name": "clorazepate dipotassium 7.5 MG Oral Tablet [Tranxene]",
+            "Start": "2021-04-10",
+            "DispensedDate": "2021-04-10",
+            "CalculatedEnd": "2021-05-10",
+            "End": "2021-05-10",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "55292030401",
+            "RXNorm_Code": "1149627",
+            "Status": null,
+            "Class": [
+                "benzodiazepine"
+            ],
+            "_id": 7
+        },
+        {
+            "Type": "Request",
+            "Name": "methamphetamine hydrochloride 5 MG Oral Tablet [Desoxyn]",
+            "Start": "2020-10-10",
+            "DispensedDate": "2020-10-10",
+            "CalculatedEnd": "2020-11-09",
+            "End": "2020-11-09",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "55292010401",
+            "RXNorm_Code": "977861",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 8
+        },
+        {
+            "Type": "Request",
+            "Name": "codeine phosphate 2 MG/ML Oral Solution [Lortuss EX]",
+            "Start": "2020-09-01",
+            "DispensedDate": "2020-09-01",
+            "CalculatedEnd": "2020-10-01",
+            "End": "2020-10-01",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 2
+                }
+            ],
+            "factor": [
+                0.15
+            ],
+            "MME": 0.3,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "69036013016",
+            "RXNorm_Code": "1547607",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 9
+        },
+        {
+            "Type": "Request",
+            "Name": "clonazepam 0.25 MG Disintegrating Oral Tablet ",
+            "Start": "2020-06-10",
+            "DispensedDate": "2020-07-08",
+            "CalculatedEnd": "2020-08-07",
+            "End": "2020-08-07",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "57664078488",
+            "RXNorm_Code": "349195",
+            "Status": null,
+            "Class": [
+                "benzodiazepine"
+            ],
+            "_id": 10
+        },
+        {
+            "Type": "Request",
+            "Name": "dextroamphetamine sulfate 10 MG Oral Tablet [Dexedrine]",
+            "Start": "2019-07-09",
+            "DispensedDate": "2019-07-09",
+            "CalculatedEnd": "2019-08-08",
+            "End": "2019-08-08",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "52054021610",
+            "RXNorm_Code": "1541609",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 11
+        },
+        {
+            "Type": "Request",
+            "Name": "0.5 ML testosterone enanthate 150 MG/ML [Xyosted]",
+            "Start": "2019-02-10",
+            "DispensedDate": "2019-02-10",
+            "CalculatedEnd": "2019-03-12",
+            "End": "2019-03-12",
+            "Quantity": 90,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 3,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "54436027503",
+            "RXNorm_Code": "2099697",
+            "Status": null,
+            "Class": [
+                "steroid"
+            ],
+            "_id": 12
+        },
+        {
+            "Type": "Request",
+            "Name": "dexmethylphenidate 30 MG Oral Capsule [Focalin]",
+            "Start": "2019-01-10",
+            "DispensedDate": "2019-01-10",
+            "CalculatedEnd": "2019-02-09",
+            "End": "2019-02-09",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "00078043305",
+            "RXNorm_Code": "899497",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 13
+        }
+    ],
+    "filename": "Deux_Val_MME_Result",
+    "timestamp": "2021-08-26T23:25:24.842Z"
+}

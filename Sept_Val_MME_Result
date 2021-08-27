@@ -1,0 +1,372 @@
+{
+    "context": "CQL PMP MME Result",
+    "data": [
+        {
+            "Type": "Request",
+            "Name": "2 ML sufentanil 0.05 MG/ML Injection",
+            "Start": "2021-01-10",
+            "DispensedDate": "2021-01-10",
+            "CalculatedEnd": "2021-01-11",
+            "End": "2021-01-11",
+            "Quantity": 1,
+            "Duration": 1,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "00409338222",
+            "RXNorm_Code": "1809102",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 1
+        },
+        {
+            "Type": "Request",
+            "Name": "sodium oxybate 500 MG/ML Oral Solution [Xyrem]",
+            "Start": "2020-12-06",
+            "DispensedDate": "2020-12-06",
+            "CalculatedEnd": "2021-01-05",
+            "End": "2021-01-05",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan, INC.",
+            "NDC_Code": "68727010001",
+            "RXNorm_Code": "352257",
+            "Status": null,
+            "Class": [
+                "other anesthetics"
+            ],
+            "_id": 2
+        },
+        {
+            "Type": "Request",
+            "Name": "solriamfetol 75 MG Oral Tablet [Sunosi]",
+            "Start": "2019-08-14",
+            "DispensedDate": "2019-08-14",
+            "CalculatedEnd": "2019-09-13",
+            "End": "2019-09-13",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "68727035001",
+            "RXNorm_Code": "2121764",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 3
+        },
+        {
+            "Type": "Request",
+            "Name": "serdexmethylphenidate 39.2 MG Oral Capsule [Azstarys]",
+            "Start": "2019-01-10",
+            "DispensedDate": "2019-01-10",
+            "CalculatedEnd": "2019-02-09",
+            "End": "2019-02-09",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "65038042999",
+            "RXNorm_Code": "2562204",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 4
+        },
+        {
+            "Type": "Request",
+            "Name": "suvorexant 15 MG Oral Tablet [Belsomra]",
+            "Start": "2021-01-10",
+            "DispensedDate": null,
+            "CalculatedEnd": null,
+            "End": null,
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "00006032530",
+            "RXNorm_Code": "1547114",
+            "Status": null,
+            "Class": [
+                "sedative"
+            ],
+            "_id": 5
+        },
+        {
+            "Type": "Request",
+            "Name": "tapentadol 100 MG Extended Release Oral Tablet [Nucynta]",
+            "Start": "2019-01-10",
+            "DispensedDate": null,
+            "CalculatedEnd": null,
+            "End": null,
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 100
+                }
+            ],
+            "factor": [
+                0.4
+            ],
+            "MME": 40,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "55700079760",
+            "RXNorm_Code": "1149367",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 6
+        },
+        {
+            "Type": "Request",
+            "Name": "\t0.5 ML testosterone enanthate 150 MG/ML [Xyosted] ",
+            "Start": "2021-04-10",
+            "DispensedDate": "2021-04-10",
+            "CalculatedEnd": "2021-05-10",
+            "End": "2021-05-10",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "54436027504",
+            "RXNorm_Code": "2099697",
+            "Status": null,
+            "Class": [
+                "steroid"
+            ],
+            "_id": 7
+        },
+        {
+            "Type": "Request",
+            "Name": "triazolam 0.25 MG Oral Tablet [Halcion]",
+            "Start": "2020-10-10",
+            "DispensedDate": "2020-10-10",
+            "CalculatedEnd": "2020-11-09",
+            "End": "2020-11-09",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "00009001758",
+            "RXNorm_Code": "208681",
+            "Status": null,
+            "Class": [
+                "benzodiazepine"
+            ],
+            "_id": 8
+        },
+        {
+            "Type": "Request",
+            "Name": "tramadol hydrochloride 100 MG Extended Release Oral Capsule",
+            "Start": "2020-09-01",
+            "DispensedDate": "2020-09-01",
+            "CalculatedEnd": "2020-10-01",
+            "End": "2020-10-01",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 100
+                }
+            ],
+            "factor": [
+                0.1
+            ],
+            "MME": 10,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "13811068930",
+            "RXNorm_Code": "1148478",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 9
+        },
+        {
+            "Type": "Request",
+            "Name": "temazepam 7.5 MG Oral Capsule",
+            "Start": "2020-06-10",
+            "DispensedDate": "2020-07-08",
+            "CalculatedEnd": "2020-08-07",
+            "End": "2020-08-07",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "46708037930",
+            "RXNorm_Code": "198243",
+            "Status": null,
+            "Class": [
+                "benzodiazepine"
+            ],
+            "_id": 10
+        },
+        {
+            "Type": "Request",
+            "Name": "\tdiazepam 10 MG Oral Tablet [Valium]",
+            "Start": "2019-07-09",
+            "DispensedDate": "2019-07-09",
+            "CalculatedEnd": "2019-08-08",
+            "End": "2019-08-08",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "00140000635",
+            "RXNorm_Code": "104701",
+            "Status": null,
+            "Class": [
+                "benzodiazepine"
+            ],
+            "_id": 11
+        },
+        {
+            "Type": "Request",
+            "Name": "0.5 ML testosterone enanthate 150 MG/ML [Xyosted]",
+            "Start": "2019-02-10",
+            "DispensedDate": "2019-02-10",
+            "CalculatedEnd": "2019-03-12",
+            "End": "2019-03-12",
+            "Quantity": 90,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 3,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "54436027503",
+            "RXNorm_Code": "2099697",
+            "Status": null,
+            "Class": [
+                "steroid"
+            ],
+            "_id": 12
+        },
+        {
+            "Type": "Request",
+            "Name": "alprazolam 0.25 MG Oral Tablet [Xanax]",
+            "Start": "2019-01-10",
+            "DispensedDate": "2019-01-10",
+            "CalculatedEnd": "2019-02-09",
+            "End": "2019-02-09",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "00009002902",
+            "RXNorm_Code": "141927",
+            "Status": null,
+            "Class": [
+                "benzodiazepine"
+            ],
+            "_id": 13
+        }
+    ],
+    "filename": "Sept_Val_MME_Result",
+    "timestamp": "2021-08-26T22:49:09.032Z"
+}

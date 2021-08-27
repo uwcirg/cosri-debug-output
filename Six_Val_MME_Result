@@ -1,0 +1,376 @@
+{
+    "context": "CQL PMP MME Result",
+    "data": [
+        {
+            "Type": "Request",
+            "Name": "pentobarbital sodium 50 MG/ML Injectable Solution [Nembutal]",
+            "Start": "2021-01-10",
+            "DispensedDate": "2021-01-10",
+            "CalculatedEnd": "2021-01-11",
+            "End": "2021-01-11",
+            "Quantity": 1,
+            "Duration": 1,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "76478050150",
+            "RXNorm_Code": "207468",
+            "Status": null,
+            "Class": [
+                "barbiturate"
+            ],
+            "_id": 1
+        },
+        {
+            "Type": "Request",
+            "Name": "oxymorphone hydrochloride 5 MG Oral Tablet [Opana]",
+            "Start": "2020-12-06",
+            "DispensedDate": "2020-12-06",
+            "CalculatedEnd": "2021-01-05",
+            "End": "2021-01-05",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 5
+                }
+            ],
+            "factor": [
+                3
+            ],
+            "MME": 15,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan, INC.",
+            "NDC_Code": "35356049930",
+            "RXNorm_Code": "977940",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 2
+        },
+        {
+            "Type": "Request",
+            "Name": "pentazocine 30 MG/ML Injectable Solution [Talwin]",
+            "Start": "2019-08-14",
+            "DispensedDate": "2019-08-14",
+            "CalculatedEnd": "2019-08-15",
+            "End": "2019-08-15",
+            "Quantity": 1,
+            "Duration": 1,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 30
+                }
+            ],
+            "factor": [
+                0.37
+            ],
+            "MME": 11.1,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "00409192010",
+            "RXNorm_Code": "857237",
+            "Status": null,
+            "Class": [],
+            "_id": 3
+        },
+        {
+            "Type": "Request",
+            "Name": "acetaminophen 300 MG / oxycodone hydrochloride 10 MG",
+            "Start": "2019-01-10",
+            "DispensedDate": "2019-01-10",
+            "CalculatedEnd": "2019-02-09",
+            "End": "2019-02-09",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1.5
+            ],
+            "MME": 15,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "72887068303",
+            "RXNorm_Code": "1014599",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 4
+        },
+        {
+            "Type": "Request",
+            "Name": "perampanel 10 MG Oral Tablet [FYCOMPA]",
+            "Start": "2021-01-10",
+            "DispensedDate": null,
+            "CalculatedEnd": null,
+            "End": null,
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "62856028030",
+            "RXNorm_Code": "1356584",
+            "Status": null,
+            "Class": [
+                "antiepileptic"
+            ],
+            "_id": 5
+        },
+        {
+            "Type": "Request",
+            "Name": "phendimetrazine 105 MG  Oral Capsule [Fendique]",
+            "Start": "2019-01-10",
+            "DispensedDate": null,
+            "CalculatedEnd": null,
+            "End": null,
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "69543041330",
+            "RXNorm_Code": "2284301",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 6
+        },
+        {
+            "Type": "Request",
+            "Name": "phentermine hydrochloride 15 MG Disintegrating Oral Tablet",
+            "Start": "2021-04-10",
+            "DispensedDate": "2021-04-10",
+            "CalculatedEnd": "2021-05-10",
+            "End": "2021-05-10",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "70771120003",
+            "RXNorm_Code": "1112982",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 7
+        },
+        {
+            "Type": "Request",
+            "Name": "\tremifentanil 1 MG Injection [Ultiva]",
+            "Start": "2020-10-10",
+            "DispensedDate": "2020-10-10",
+            "CalculatedEnd": "2020-11-09",
+            "End": "2020-11-09",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "67457019803",
+            "RXNorm_Code": "1729581",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 8
+        },
+        {
+            "Type": "Request",
+            "Name": "pregabalin 20 MG/ML Oral Solution [Lyrica]",
+            "Start": "2020-09-01",
+            "DispensedDate": "2020-09-01",
+            "CalculatedEnd": "2020-10-01",
+            "End": "2020-10-01",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "\t00071102001",
+            "RXNorm_Code": null,
+            "Status": null,
+            "Class": null,
+            "_id": 9
+        },
+        {
+            "Type": "Request",
+            "Name": "phenobarbital 16.2 MG Oral Tablet [Donnatal]",
+            "Start": "2020-06-10",
+            "DispensedDate": "2020-07-08",
+            "CalculatedEnd": "2020-08-07",
+            "End": "2020-08-07",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "42291024501",
+            "RXNorm_Code": "1046978",
+            "Status": null,
+            "Class": [
+                "opioid",
+                "barbiturate"
+            ],
+            "_id": 10
+        },
+        {
+            "Type": "Request",
+            "Name": "\tremimazolam 20 MG Injection [Byfavo]",
+            "Start": "2019-07-09",
+            "DispensedDate": "2019-07-09",
+            "CalculatedEnd": "2019-08-08",
+            "End": "2019-08-08",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "71390001111",
+            "RXNorm_Code": "2383951",
+            "Status": null,
+            "Class": [
+                "benzodiazepine"
+            ],
+            "_id": 11
+        },
+        {
+            "Type": "Request",
+            "Name": "quazepam 15 MG Oral Tablet",
+            "Start": "2019-02-10",
+            "DispensedDate": "2019-02-10",
+            "CalculatedEnd": "2019-03-12",
+            "End": "2019-03-12",
+            "Quantity": 90,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 3,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "71993026530",
+            "RXNorm_Code": "198183",
+            "Status": null,
+            "Class": [
+                "benzodiazepine"
+            ],
+            "_id": 12
+        },
+        {
+            "Type": "Request",
+            "Name": "\tmethylphenidate hydrochloride 20 MG Oral Tablet [Ritalin]",
+            "Start": "2019-01-10",
+            "DispensedDate": "2019-01-10",
+            "CalculatedEnd": "2019-02-09",
+            "End": "2019-02-09",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "00078044105",
+            "RXNorm_Code": "1091395",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 13
+        }
+    ],
+    "filename": "Six_Val_MME_Result",
+    "timestamp": "2021-08-27T04:19:55.889Z"
+}
