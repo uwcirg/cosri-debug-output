@@ -1,0 +1,102 @@
+{
+    "context": "CQL PMP MME Result",
+    "data": [
+        {
+            "Type": "Request",
+            "Name": "FENTANYL 75 MCG/HR PATCH",
+            "Start": "2021-01-10",
+            "DispensedDate": null,
+            "CalculatedEnd": null,
+            "End": null,
+            "Quantity": 10,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 0.3333333333333333,
+            "strength": [
+                {
+                    "unit": "ug/h",
+                    "value": 75
+                }
+            ],
+            "factor": [
+                7.2
+            ],
+            "MME": 180,
+            "Prescriber": "Paul Dini",
+            "Pharmacy": "Gotham Pharmacy, INC.",
+            "NDC_Code": "47781042747",
+            "RXNorm_Code": "197696",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 1
+        },
+        {
+            "Type": "Request",
+            "Name": "ZOLPIDEM TARTRATE 10 MG TABLET",
+            "Start": "2018-12-06",
+            "DispensedDate": "2018-12-15",
+            "CalculatedEnd": "2019-01-14",
+            "End": "2019-01-14",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Paul Dini",
+            "Pharmacy": "Gotham Pharmacy, INC.",
+            "NDC_Code": "13668000801",
+            "RXNorm_Code": "854873",
+            "Status": null,
+            "Class": [
+                "sedative"
+            ],
+            "_id": 2
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 7.5-325",
+            "Start": "2018-08-14",
+            "DispensedDate": "2018-12-15",
+            "CalculatedEnd": "2019-01-14",
+            "End": "2019-01-14",
+            "Quantity": 240,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 8,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 7.5
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 60,
+            "Prescriber": "Paul Dini",
+            "Pharmacy": "Gotham Pharmacy, INC.",
+            "NDC_Code": "65162011510",
+            "RXNorm_Code": "857005",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 3
+        }
+    ],
+    "filename": "Harley_Quinn_MME_Result",
+    "timestamp": "2021-08-27T23:40:01.828Z"
+}
