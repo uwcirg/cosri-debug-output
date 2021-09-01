@@ -133,9 +133,9 @@
             "RXNorm_Code": "993943",
             "Status": null,
             "Class": [
+                "stimulant",
                 "opioid",
-                "barbiturate",
-                "stimulant"
+                "barbiturate"
             ],
             "_id": 4
         },
@@ -568,9 +568,9 @@
             "RXNorm_Code": "1431286",
             "Status": null,
             "Class": [
+                "stimulant",
                 "opioid",
-                "barbiturate",
-                "stimulant"
+                "barbiturate"
             ],
             "_id": 17
         },
@@ -604,9 +604,9 @@
             "RXNorm_Code": "993943",
             "Status": null,
             "Class": [
+                "stimulant",
                 "opioid",
-                "barbiturate",
-                "stimulant"
+                "barbiturate"
             ],
             "_id": 18
         },
@@ -1156,5 +1156,5 @@
         }
     ],
     "filename": "Validoverlap_Patient72_MME_Result",
-    "timestamp": "2021-08-28T00:58:07.869Z"
+    "timestamp": "2021-08-30T23:51:16.159Z"
 }

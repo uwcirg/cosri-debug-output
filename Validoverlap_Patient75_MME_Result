@@ -439,8 +439,8 @@
             "RXNorm_Code": "1190201",
             "Status": null,
             "Class": [
-                "opioid",
-                "stimulant"
+                "stimulant",
+                "opioid"
             ],
             "_id": 13
         },
@@ -922,5 +922,5 @@
         }
     ],
     "filename": "Validoverlap_Patient75_MME_Result",
-    "timestamp": "2021-08-28T05:08:59.204Z"
+    "timestamp": "2021-08-30T23:05:52.493Z"
 }
