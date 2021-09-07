@@ -1,0 +1,2549 @@
+{
+    "context": "CQL PMP MME Result",
+    "data": [
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2021-06-22",
+            "DispensedDate": "2021-06-22",
+            "CalculatedEnd": "2021-07-22",
+            "End": "2021-07-22",
+            "Quantity": 75,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.5,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER, MSN, ARNP",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "68382095501",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 1
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2021-06-22",
+            "DispensedDate": "2021-06-22",
+            "CalculatedEnd": "2021-07-22",
+            "End": "2021-07-22",
+            "Quantity": 240,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 8,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 80,
+            "Prescriber": "MATTHEW LETTER, MSN, ARNP",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00406012505",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 2
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2021-03-24",
+            "DispensedDate": "2021-05-20",
+            "CalculatedEnd": "2021-06-19",
+            "End": "2021-06-19",
+            "Quantity": 75,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.5,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER, MSN, ARNP",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "68382095501",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 3
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2021-03-24",
+            "DispensedDate": "2021-05-20",
+            "CalculatedEnd": "2021-06-04",
+            "End": "2021-06-04",
+            "Quantity": 120,
+            "Duration": 15,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 8,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 80,
+            "Prescriber": "MATTHEW LETTER, MSN, ARNP",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00406012505",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 4
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2021-03-24",
+            "DispensedDate": "2021-04-22",
+            "CalculatedEnd": "2021-05-22",
+            "End": "2021-05-22",
+            "Quantity": 75,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.5,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER, MSN, ARNP",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "68382095501",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 5
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2021-03-24",
+            "DispensedDate": "2021-04-22",
+            "CalculatedEnd": "2021-05-22",
+            "End": "2021-05-22",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER, MSN, ARNP",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00406012505",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 6
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2021-03-25",
+            "DispensedDate": "2021-03-25",
+            "CalculatedEnd": "2021-04-24",
+            "End": "2021-04-24",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER, MSN, ARNP",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00406012505",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 7
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2021-03-24",
+            "DispensedDate": "2021-03-24",
+            "CalculatedEnd": "2021-04-23",
+            "End": "2021-04-23",
+            "Quantity": 75,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.5,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER, MSN, ARNP",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "68382095501",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 8
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2020-12-15",
+            "DispensedDate": "2021-02-17",
+            "CalculatedEnd": "2021-03-19",
+            "End": "2021-03-19",
+            "Quantity": 75,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.5,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER, MSN, ARNP",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "68382095501",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 9
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2020-12-16",
+            "DispensedDate": "2021-02-17",
+            "CalculatedEnd": "2021-03-19",
+            "End": "2021-03-19",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER, MSN, ARNP",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00406012505",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 10
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2020-12-16",
+            "DispensedDate": "2021-01-17",
+            "CalculatedEnd": "2021-02-16",
+            "End": "2021-02-16",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER, MSN, ARNP",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00406012505",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 11
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2020-12-15",
+            "DispensedDate": "2021-01-17",
+            "CalculatedEnd": "2021-02-16",
+            "End": "2021-02-16",
+            "Quantity": 75,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.5,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER, MSN, ARNP",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00555097302",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 12
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2020-12-16",
+            "DispensedDate": "2020-12-16",
+            "CalculatedEnd": "2021-01-15",
+            "End": "2021-01-15",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER, MSN, ARNP",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "53746011005",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 13
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2020-12-15",
+            "DispensedDate": "2020-12-16",
+            "CalculatedEnd": "2021-01-15",
+            "End": "2021-01-15",
+            "Quantity": 75,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.5,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER, MSN, ARNP",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "68382095501",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 14
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2020-09-15",
+            "DispensedDate": "2020-11-16",
+            "CalculatedEnd": "2020-12-16",
+            "End": "2020-12-16",
+            "Quantity": 75,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.5,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER, MSN, ARNP",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00555097302",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 15
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2020-09-15",
+            "DispensedDate": "2020-11-16",
+            "CalculatedEnd": "2020-12-16",
+            "End": "2020-12-16",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER, MSN, ARNP",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00406012505",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 16
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2020-10-22",
+            "DispensedDate": "2020-10-22",
+            "CalculatedEnd": "2020-11-21",
+            "End": "2020-11-21",
+            "Quantity": 60,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER, MSN, ARNP",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00555097302",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 17
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2020-09-15",
+            "DispensedDate": "2020-10-16",
+            "CalculatedEnd": "2020-10-31",
+            "End": "2020-10-31",
+            "Quantity": 120,
+            "Duration": 15,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 8,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 80,
+            "Prescriber": "MATTHEW LETTER, MSN, ARNP",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00406012505",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 18
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2020-09-15",
+            "DispensedDate": "2020-09-16",
+            "CalculatedEnd": "2020-10-16",
+            "End": "2020-10-16",
+            "Quantity": 75,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.5,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER, MSN, ARNP",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00555097302",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 19
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2020-09-15",
+            "DispensedDate": "2020-09-16",
+            "CalculatedEnd": "2020-10-01",
+            "End": "2020-10-01",
+            "Quantity": 120,
+            "Duration": 15,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 8,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 80,
+            "Prescriber": "MATTHEW LETTER, MSN, ARNP",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00406012505",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 20
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2020-06-17",
+            "DispensedDate": "2020-08-17",
+            "CalculatedEnd": "2020-09-16",
+            "End": "2020-09-16",
+            "Quantity": 75,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.5,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER, MSN, ARNP",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "68382095501",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 21
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2020-06-17",
+            "DispensedDate": "2020-08-17",
+            "CalculatedEnd": "2020-09-16",
+            "End": "2020-09-16",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER, MSN, ARNP",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00406012505",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 22
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2020-06-17",
+            "DispensedDate": "2020-07-17",
+            "CalculatedEnd": "2020-08-16",
+            "End": "2020-08-16",
+            "Quantity": 75,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.5,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER, MSN, ARNP",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "68382095501",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 23
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2020-06-17",
+            "DispensedDate": "2020-07-16",
+            "CalculatedEnd": "2020-08-15",
+            "End": "2020-08-15",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER, MSN, ARNP",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00406012505",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 24
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2020-06-17",
+            "DispensedDate": "2020-06-18",
+            "CalculatedEnd": "2020-07-18",
+            "End": "2020-07-18",
+            "Quantity": 75,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.5,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER, MSN, ARNP",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "68382095501",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 25
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2020-06-17",
+            "DispensedDate": "2020-06-18",
+            "CalculatedEnd": "2020-07-03",
+            "End": "2020-07-03",
+            "Quantity": 120,
+            "Duration": 15,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 8,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 80,
+            "Prescriber": "MATTHEW LETTER, MSN, ARNP",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00406012505",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 26
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2020-03-23",
+            "DispensedDate": "2020-05-17",
+            "CalculatedEnd": "2020-06-16",
+            "End": "2020-06-16",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER, MSN, ARNP",
+            "Pharmacy": "SAFEWAY INC",
+            "NDC_Code": "00406012501",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 27
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2020-03-19",
+            "DispensedDate": "2020-04-28",
+            "CalculatedEnd": "2020-05-28",
+            "End": "2020-05-28",
+            "Quantity": 75,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.5,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "68382095501",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 28
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2020-03-23",
+            "DispensedDate": "2020-04-20",
+            "CalculatedEnd": "2020-05-20",
+            "End": "2020-05-20",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "SAFEWAY INC",
+            "NDC_Code": "00406012501",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 29
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2020-03-19",
+            "DispensedDate": "2020-03-23",
+            "CalculatedEnd": "2020-04-22",
+            "End": "2020-04-22",
+            "Quantity": 75,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.5,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00555097302",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 30
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2020-03-23",
+            "DispensedDate": "2020-03-23",
+            "CalculatedEnd": "2020-04-22",
+            "End": "2020-04-22",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "SAFEWAY INC",
+            "NDC_Code": "00406012501",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 31
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2019-12-20",
+            "DispensedDate": "2020-02-24",
+            "CalculatedEnd": "2020-03-25",
+            "End": "2020-03-25",
+            "Quantity": 75,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.5,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00555097302",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 32
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2019-12-20",
+            "DispensedDate": "2020-02-24",
+            "CalculatedEnd": "2020-03-25",
+            "End": "2020-03-25",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00406012505",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 33
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2019-12-20",
+            "DispensedDate": "2020-01-25",
+            "CalculatedEnd": "2020-02-24",
+            "End": "2020-02-24",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00406012505",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 34
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2019-12-20",
+            "DispensedDate": "2020-01-25",
+            "CalculatedEnd": "2020-02-24",
+            "End": "2020-02-24",
+            "Quantity": 75,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.5,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00555097302",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 35
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2019-12-20",
+            "DispensedDate": "2019-12-21",
+            "CalculatedEnd": "2020-01-20",
+            "End": "2020-01-20",
+            "Quantity": 75,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.5,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "68382095501",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 36
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2019-12-20",
+            "DispensedDate": "2019-12-21",
+            "CalculatedEnd": "2020-01-20",
+            "End": "2020-01-20",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00406012505",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 37
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2019-09-10",
+            "DispensedDate": "2019-11-29",
+            "CalculatedEnd": "2019-12-29",
+            "End": "2019-12-29",
+            "Quantity": 75,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.5,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "68382095501",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 38
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2019-09-10",
+            "DispensedDate": "2019-11-29",
+            "CalculatedEnd": "2019-12-29",
+            "End": "2019-12-29",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00406012501",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 39
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2019-09-10",
+            "DispensedDate": "2019-10-31",
+            "CalculatedEnd": "2019-11-30",
+            "End": "2019-11-30",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00406012501",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 40
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2019-09-10",
+            "DispensedDate": "2019-10-31",
+            "CalculatedEnd": "2019-11-30",
+            "End": "2019-11-30",
+            "Quantity": 75,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.5,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00185085301",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 41
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2019-09-10",
+            "DispensedDate": "2019-10-03",
+            "CalculatedEnd": "2019-11-02",
+            "End": "2019-11-02",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00406012501",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 42
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2019-09-10",
+            "DispensedDate": "2019-10-03",
+            "CalculatedEnd": "2019-11-02",
+            "End": "2019-11-02",
+            "Quantity": 75,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.5,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00555097302",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 43
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2019-06-27",
+            "DispensedDate": "2019-09-04",
+            "CalculatedEnd": "2019-10-04",
+            "End": "2019-10-04",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00406012501",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 44
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2019-06-27",
+            "DispensedDate": "2019-09-04",
+            "CalculatedEnd": "2019-10-04",
+            "End": "2019-10-04",
+            "Quantity": 75,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.5,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "68382095501",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 45
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2019-06-27",
+            "DispensedDate": "2019-08-06",
+            "CalculatedEnd": "2019-09-05",
+            "End": "2019-09-05",
+            "Quantity": 75,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.5,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "68382095501",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 46
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2019-06-27",
+            "DispensedDate": "2019-08-05",
+            "CalculatedEnd": "2019-09-04",
+            "End": "2019-09-04",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00406012501",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 47
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2019-06-27",
+            "DispensedDate": "2019-07-07",
+            "CalculatedEnd": "2019-08-06",
+            "End": "2019-08-06",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00406012501",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 48
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2019-06-27",
+            "DispensedDate": "2019-07-07",
+            "CalculatedEnd": "2019-08-06",
+            "End": "2019-08-06",
+            "Quantity": 75,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.5,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "68382095501",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 49
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2019-06-07",
+            "DispensedDate": "2019-06-08",
+            "CalculatedEnd": "2019-07-08",
+            "End": "2019-07-08",
+            "Quantity": 75,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.5,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "68382095501",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 50
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2019-04-02",
+            "DispensedDate": "2019-06-07",
+            "CalculatedEnd": "2019-07-07",
+            "End": "2019-07-07",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00406012501",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 51
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2019-05-10",
+            "DispensedDate": "2019-05-10",
+            "CalculatedEnd": "2019-06-09",
+            "End": "2019-06-09",
+            "Quantity": 75,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.5,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "68382095501",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 52
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2019-04-02",
+            "DispensedDate": "2019-05-09",
+            "CalculatedEnd": "2019-06-08",
+            "End": "2019-06-08",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "53746011001",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 53
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2019-04-02",
+            "DispensedDate": "2019-04-09",
+            "CalculatedEnd": "2019-05-09",
+            "End": "2019-05-09",
+            "Quantity": 75,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.5,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "68382095501",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 54
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2019-04-02",
+            "DispensedDate": "2019-04-09",
+            "CalculatedEnd": "2019-05-09",
+            "End": "2019-05-09",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00406012501",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 55
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2019-01-22",
+            "DispensedDate": "2019-03-12",
+            "CalculatedEnd": "2019-04-11",
+            "End": "2019-04-11",
+            "Quantity": 60,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "68382095501",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 56
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2019-01-22",
+            "DispensedDate": "2019-03-12",
+            "CalculatedEnd": "2019-04-11",
+            "End": "2019-04-11",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00406012501",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 57
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2019-01-22",
+            "DispensedDate": "2019-02-09",
+            "CalculatedEnd": "2019-03-11",
+            "End": "2019-03-11",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00406012501",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 58
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2019-01-22",
+            "DispensedDate": "2019-02-09",
+            "CalculatedEnd": "2019-03-11",
+            "End": "2019-03-11",
+            "Quantity": 60,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "68382095501",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 59
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2019-01-11",
+            "DispensedDate": "2019-01-12",
+            "CalculatedEnd": "2019-02-11",
+            "End": "2019-02-11",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00406012501",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 60
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2019-01-11",
+            "DispensedDate": "2019-01-12",
+            "CalculatedEnd": "2019-02-11",
+            "End": "2019-02-11",
+            "Quantity": 60,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00185085301",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 61
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2018-10-02",
+            "DispensedDate": "2018-12-07",
+            "CalculatedEnd": "2019-01-06",
+            "End": "2019-01-06",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00406012501",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 62
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2018-10-02",
+            "DispensedDate": "2018-12-07",
+            "CalculatedEnd": "2019-01-06",
+            "End": "2019-01-06",
+            "Quantity": 60,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "13107007301",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 63
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2018-10-02",
+            "DispensedDate": "2018-10-30",
+            "CalculatedEnd": "2018-11-29",
+            "End": "2018-11-29",
+            "Quantity": 60,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "13107007301",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 64
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2018-10-02",
+            "DispensedDate": "2018-10-30",
+            "CalculatedEnd": "2018-11-29",
+            "End": "2018-11-29",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00406012501",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 65
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2018-10-02",
+            "DispensedDate": "2018-10-02",
+            "CalculatedEnd": "2018-12-01",
+            "End": "2018-12-01",
+            "Quantity": 60,
+            "Duration": 60,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "13107007301",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 66
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2018-10-02",
+            "DispensedDate": "2018-10-02",
+            "CalculatedEnd": "2018-11-01",
+            "End": "2018-11-01",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00406012501",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 67
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2018-09-13",
+            "DispensedDate": "2018-09-14",
+            "CalculatedEnd": "2018-09-26",
+            "End": "2018-09-26",
+            "Quantity": 48,
+            "Duration": 12,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "WALGREEN CO.",
+            "NDC_Code": "00406012505",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 68
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2018-08-29",
+            "DispensedDate": "2018-08-30",
+            "CalculatedEnd": "2018-09-09",
+            "End": "2018-09-09",
+            "Quantity": 40,
+            "Duration": 10,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "WALGREEN CO.",
+            "NDC_Code": "00406012505",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 69
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2018-07-25",
+            "DispensedDate": "2018-07-27",
+            "CalculatedEnd": "2018-08-26",
+            "End": "2018-08-26",
+            "Quantity": 60,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "13107007301",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 70
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2018-07-25",
+            "DispensedDate": "2018-07-27",
+            "CalculatedEnd": "2018-08-26",
+            "End": "2018-08-26",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "Pinehurst Pharmacy",
+            "NDC_Code": "00406012501",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 71
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2018-06-25",
+            "DispensedDate": "2018-06-26",
+            "CalculatedEnd": "2018-07-26",
+            "End": "2018-07-26",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "WALGREEN CO.",
+            "NDC_Code": "00591261205",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 72
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2018-06-25",
+            "DispensedDate": "2018-06-26",
+            "CalculatedEnd": "2018-07-26",
+            "End": "2018-07-26",
+            "Quantity": 60,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "WALGREEN CO.",
+            "NDC_Code": "00555097302",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 73
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2018-05-30",
+            "DispensedDate": "2018-05-31",
+            "CalculatedEnd": "2018-06-30",
+            "End": "2018-06-30",
+            "Quantity": 60,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "WALGREEN CO.",
+            "NDC_Code": "00555097302",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 74
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2018-05-30",
+            "DispensedDate": "2018-05-31",
+            "CalculatedEnd": "2018-06-30",
+            "End": "2018-06-30",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "WALGREEN CO.",
+            "NDC_Code": "00591261205",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 75
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2018-04-04",
+            "DispensedDate": "2018-04-20",
+            "CalculatedEnd": "2018-05-20",
+            "End": "2018-05-20",
+            "Quantity": 60,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "WALGREEN CO.",
+            "NDC_Code": "00555097302",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 76
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2018-04-04",
+            "DispensedDate": "2018-04-20",
+            "CalculatedEnd": "2018-05-20",
+            "End": "2018-05-20",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "WALGREEN CO.",
+            "NDC_Code": "00591261205",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 77
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2018-03-14",
+            "DispensedDate": "2018-03-22",
+            "CalculatedEnd": "2018-04-21",
+            "End": "2018-04-21",
+            "Quantity": 60,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "WALGREEN CO.",
+            "NDC_Code": "00555097302",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 78
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2018-03-14",
+            "DispensedDate": "2018-03-21",
+            "CalculatedEnd": "2018-04-20",
+            "End": "2018-04-20",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "WALGREEN CO.",
+            "NDC_Code": "00591261205",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 79
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2018-02-20",
+            "DispensedDate": "2018-02-20",
+            "CalculatedEnd": "2018-03-22",
+            "End": "2018-03-22",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "WALGREEN CO.",
+            "NDC_Code": "00591261205",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 80
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2018-02-20",
+            "DispensedDate": "2018-02-20",
+            "CalculatedEnd": "2018-03-22",
+            "End": "2018-03-22",
+            "Quantity": 60,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "WALGREEN CO.",
+            "NDC_Code": "00555097302",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 81
+        },
+        {
+            "Type": "Request",
+            "Name": "HYDROCODONE-ACETAMIN 10-325 MG",
+            "Start": "2018-01-11",
+            "DispensedDate": "2018-01-19",
+            "CalculatedEnd": "2018-02-18",
+            "End": "2018-02-18",
+            "Quantity": 120,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 40,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "WALGREEN CO.",
+            "NDC_Code": "53746011005",
+            "RXNorm_Code": "856999",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 82
+        },
+        {
+            "Type": "Request",
+            "Name": "DEXTROAMP-AMPHETAMIN 20 MG TAB",
+            "Start": "2018-01-11",
+            "DispensedDate": "2018-01-11",
+            "CalculatedEnd": "2018-02-10",
+            "End": "2018-02-10",
+            "Quantity": 60,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "MATTHEW LETTER",
+            "Pharmacy": "WALGREEN CO.",
+            "NDC_Code": "00555097302",
+            "RXNorm_Code": "577961",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 83
+        }
+    ],
+    "filename": "Roy_Burns_MME_Result",
+    "timestamp": "2021-09-04T02:53:33.528Z"
+}
