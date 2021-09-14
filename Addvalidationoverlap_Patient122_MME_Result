@@ -1,0 +1,585 @@
+{
+    "context": "CQL PMP MME Result",
+    "data": [
+        {
+            "Type": "Request",
+            "Name": "fentanyl 0.1 MG Buccal Tablet",
+            "Start": "2019-11-14",
+            "DispensedDate": "2019-11-14",
+            "CalculatedEnd": "2019-12-14",
+            "End": "2019-12-14",
+            "Quantity": 2,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 0.06666666666666667,
+            "strength": [
+                {
+                    "unit": "ug",
+                    "value": 100
+                }
+            ],
+            "factor": [
+                0.13
+            ],
+            "MME": 0.8666666666666667,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "51862063428",
+            "RXNorm_Code": "668363",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 1
+        },
+        {
+            "Type": "Request",
+            "Name": "butorphanol 10 MG/ML Injectable Solution",
+            "Start": "2019-11-12",
+            "DispensedDate": "2019-11-12",
+            "CalculatedEnd": "2019-11-14",
+            "End": "2019-11-14",
+            "Quantity": 4,
+            "Duration": 2,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                7
+            ],
+            "MME": 140,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "58198004701",
+            "RXNorm_Code": "1302739",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 2
+        },
+        {
+            "Type": "Request",
+            "Name": "meperidine hydrochloride 100 MG Oral Tablet",
+            "Start": "2019-11-08",
+            "DispensedDate": "2019-11-08",
+            "CalculatedEnd": "2019-11-12",
+            "End": "2019-11-12",
+            "Quantity": 8,
+            "Duration": 4,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 100
+                }
+            ],
+            "factor": [
+                0.1
+            ],
+            "MME": 20,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "49999083801",
+            "RXNorm_Code": "861455",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 3
+        },
+        {
+            "Type": "Request",
+            "Name": "butorphanol tartrate 1 MG/ACTUAT Metered Dose Nasal Spray",
+            "Start": "2019-11-07",
+            "DispensedDate": "2019-11-07",
+            "CalculatedEnd": "2019-11-08",
+            "End": "2019-11-08",
+            "Quantity": 10,
+            "Duration": 1,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 10,
+            "strength": [
+                {
+                    "unit": "mg/{actuat}",
+                    "value": 1
+                }
+            ],
+            "factor": [
+                7
+            ],
+            "MME": 70,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "60505081301",
+            "RXNorm_Code": "886634",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 4
+        },
+        {
+            "Type": "Request",
+            "Name": "butorphanol 10 MG/ML Injectable Solution",
+            "Start": "2019-11-02",
+            "DispensedDate": "2019-11-02",
+            "CalculatedEnd": "2019-11-07",
+            "End": "2019-11-07",
+            "Quantity": 8,
+            "Duration": 5,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1.6,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                7
+            ],
+            "MME": 112,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "14043070150",
+            "RXNorm_Code": "1302739",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 5
+        },
+        {
+            "Type": "Request",
+            "Name": "1 ML butorphanol tartrate 2 MG/ML Injection",
+            "Start": "2019-11-01",
+            "DispensedDate": "2019-11-01",
+            "CalculatedEnd": "2019-11-02",
+            "End": "2019-11-02",
+            "Quantity": 2,
+            "Duration": 1,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 2
+                }
+            ],
+            "factor": [
+                7
+            ],
+            "MME": 28,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "00143986710",
+            "RXNorm_Code": "1728351",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 6
+        },
+        {
+            "Type": "Request",
+            "Name": "meperidine hydrochloride 50 MG Oral Tablet",
+            "Start": "2019-10-27",
+            "DispensedDate": "2019-10-27",
+            "CalculatedEnd": "2019-11-01",
+            "End": "2019-11-01",
+            "Quantity": 6,
+            "Duration": 5,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1.2,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 50
+                }
+            ],
+            "factor": [
+                0.1
+            ],
+            "MME": 6,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "63629454901",
+            "RXNorm_Code": "861467",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 7
+        },
+        {
+            "Type": "Request",
+            "Name": "meperidine hydrochloride 50 MG Oral Tablet",
+            "Start": "2019-10-24",
+            "DispensedDate": "2019-10-24",
+            "CalculatedEnd": "2019-10-27",
+            "End": "2019-10-27",
+            "Quantity": 8,
+            "Duration": 3,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.6666666666666665,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 50
+                }
+            ],
+            "factor": [
+                0.1
+            ],
+            "MME": 13.333333333333332,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "63629454903",
+            "RXNorm_Code": "861467",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 8
+        },
+        {
+            "Type": "Request",
+            "Name": "1 ML butorphanol tartrate 1 MG/ML Injection",
+            "Start": "2019-10-22",
+            "DispensedDate": "2019-10-22",
+            "CalculatedEnd": "2019-10-24",
+            "End": "2019-10-24",
+            "Quantity": 4,
+            "Duration": 2,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 1
+                }
+            ],
+            "factor": [
+                7
+            ],
+            "MME": 14,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "00409162349",
+            "RXNorm_Code": "886627",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 9
+        },
+        {
+            "Type": "Request",
+            "Name": "1 ML butorphanol tartrate 2 MG/ML Injection",
+            "Start": "2019-10-21",
+            "DispensedDate": "2019-10-21",
+            "CalculatedEnd": "2019-10-22",
+            "End": "2019-10-22",
+            "Quantity": 3,
+            "Duration": 1,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 3,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 2
+                }
+            ],
+            "factor": [
+                7
+            ],
+            "MME": 42,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "00409162649",
+            "RXNorm_Code": "1728351",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 10
+        },
+        {
+            "Type": "Request",
+            "Name": "meperidine hydrochloride 50 MG Oral Tablet",
+            "Start": "2019-10-17",
+            "DispensedDate": "2019-10-17",
+            "CalculatedEnd": "2019-10-21",
+            "End": "2019-10-21",
+            "Quantity": 8,
+            "Duration": 4,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 50
+                }
+            ],
+            "factor": [
+                0.1
+            ],
+            "MME": 10,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "68071076030",
+            "RXNorm_Code": "861467",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 11
+        },
+        {
+            "Type": "Request",
+            "Name": "butorphanol 10 MG/ML Injectable Solution",
+            "Start": "2019-10-14",
+            "DispensedDate": "2019-10-14",
+            "CalculatedEnd": "2019-10-17",
+            "End": "2019-10-17",
+            "Quantity": 8,
+            "Duration": 3,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.6666666666666665,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                7
+            ],
+            "MME": 186.66666666666666,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "14043070120",
+            "RXNorm_Code": "1302739",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 12
+        },
+        {
+            "Type": "Request",
+            "Name": "butorphanol 10 MG/ML Injectable Solution",
+            "Start": "2019-10-11",
+            "DispensedDate": "2019-10-11",
+            "CalculatedEnd": "2019-10-14",
+            "End": "2019-10-14",
+            "Quantity": 3,
+            "Duration": 3,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                7
+            ],
+            "MME": 70,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "11695683802",
+            "RXNorm_Code": "1302739",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 13
+        },
+        {
+            "Type": "Request",
+            "Name": "2 ML butorphanol tartrate 2 MG/ML Injection\u00c2\u00a0",
+            "Start": "2019-10-06",
+            "DispensedDate": "2019-10-06",
+            "CalculatedEnd": "2019-10-11",
+            "End": "2019-10-11",
+            "Quantity": 8,
+            "Duration": 5,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1.6,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 2
+                }
+            ],
+            "factor": [
+                7
+            ],
+            "MME": 22.400000000000002,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "55390018402",
+            "RXNorm_Code": "1728355",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 14
+        },
+        {
+            "Type": "Request",
+            "Name": "acetaminophen 325 MG / benzhydrocodone 6.12 MG Oral Tablet [Apadaz]\u00c2\u00a0",
+            "Start": "2019-09-06",
+            "DispensedDate": "2019-09-06",
+            "CalculatedEnd": "2019-10-06",
+            "End": "2019-10-06",
+            "Quantity": 6,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 0.2,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 6.12
+                }
+            ],
+            "factor": [
+                1.22
+            ],
+            "MME": 1.4932800000000002,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "10702034101",
+            "RXNorm_Code": "2001364",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 15
+        },
+        {
+            "Type": "Request",
+            "Name": "1 ML butorphanol tartrate 2 MG/ML Injection",
+            "Start": "2019-09-03",
+            "DispensedDate": "2019-09-03",
+            "CalculatedEnd": "2019-09-06",
+            "End": "2019-09-06",
+            "Quantity": 3,
+            "Duration": 3,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 2
+                }
+            ],
+            "factor": [
+                7
+            ],
+            "MME": 14,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "00409162621",
+            "RXNorm_Code": "1728351",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 16
+        },
+        {
+            "Type": "Request",
+            "Name": "1 ML meperidine hydrochloride 75 MG/ML Prefilled Syringe [Demerol]\u00c2\u00a0",
+            "Start": "2019-09-01",
+            "DispensedDate": "2019-09-01",
+            "CalculatedEnd": "2019-09-03",
+            "End": "2019-09-03",
+            "Quantity": 8,
+            "Duration": 2,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 75
+                }
+            ],
+            "factor": [
+                0.3
+            ],
+            "MME": 90,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "00409203311",
+            "RXNorm_Code": "2539200",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 17
+        }
+    ],
+    "filename": "Addvalidationoverlap_Patient122_MME_Result",
+    "timestamp": "2021-09-14T18:29:17.007Z"
+}

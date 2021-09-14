@@ -593,9 +593,16 @@
                 "value": 1
             },
             "dosesPerDay": 4,
-            "strength": [],
-            "factor": [],
-            "MME": null,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 5
+                }
+            ],
+            "factor": [
+                1.5
+            ],
+            "MME": 30,
             "Prescriber": "Tricia Fonte",
             "Pharmacy": "Pharmacy A, INC.",
             "NDC_Code": "72245068110",
@@ -1050,5 +1057,5 @@
         }
     ],
     "filename": "Validoverlap_Patient111_MME_Result",
-    "timestamp": "2021-09-14T04:44:23.489Z"
+    "timestamp": "2021-09-14T18:18:27.256Z"
 }
