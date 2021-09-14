@@ -201,9 +201,9 @@
             "RXNorm_Code": "993943",
             "Status": null,
             "Class": [
+                "stimulant",
                 "opioid",
-                "barbiturate",
-                "stimulant"
+                "barbiturate"
             ],
             "_id": 6
         },
@@ -765,15 +765,24 @@
                 "value": 1
             },
             "dosesPerDay": 6,
-            "strength": [],
-            "factor": [],
-            "MME": null,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 30
+                }
+            ],
+            "factor": [
+                0.15
+            ],
+            "MME": 27,
             "Prescriber": "Tricia Fonte",
             "Pharmacy": "Pharmacy A, INC.",
-            "NDC_Code": "50090461000",
-            "RXNorm_Code": null,
+            "NDC_Code": "67544088253",
+            "RXNorm_Code": "993781",
             "Status": null,
-            "Class": null,
+            "Class": [
+                "opioid"
+            ],
             "_id": 23
         },
         {
@@ -1118,5 +1127,5 @@
         }
     ],
     "filename": "Validation_Patient68_MME_Result",
-    "timestamp": "2021-08-27T20:35:53.987Z"
+    "timestamp": "2021-09-08T19:13:36.173Z"
 }

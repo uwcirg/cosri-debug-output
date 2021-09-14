@@ -389,15 +389,24 @@
                 "value": 1
             },
             "dosesPerDay": 6,
-            "strength": [],
-            "factor": [],
-            "MME": null,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 30
+                }
+            ],
+            "factor": [
+                0.15
+            ],
+            "MME": 27,
             "Prescriber": "Tricia Fonte",
             "Pharmacy": "Pharmacy A, INC.",
-            "NDC_Code": "50090461001",
-            "RXNorm_Code": null,
+            "NDC_Code": "00093015001",
+            "RXNorm_Code": "993781",
             "Status": null,
-            "Class": null,
+            "Class": [
+                "opioid"
+            ],
             "_id": 12
         },
         {
@@ -804,9 +813,9 @@
             "RXNorm_Code": "1431286",
             "Status": null,
             "Class": [
+                "stimulant",
                 "opioid",
-                "barbiturate",
-                "stimulant"
+                "barbiturate"
             ],
             "_id": 24
         },
@@ -824,15 +833,26 @@
                 "value": 1
             },
             "dosesPerDay": 6,
-            "strength": [],
-            "factor": [],
-            "MME": null,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 30
+                }
+            ],
+            "factor": [
+                0.15
+            ],
+            "MME": 27,
             "Prescriber": "Tricia Fonte",
             "Pharmacy": "Pharmacy A, INC.",
-            "NDC_Code": "00722609401",
-            "RXNorm_Code": null,
+            "NDC_Code": "51991007401",
+            "RXNorm_Code": "994239",
             "Status": null,
-            "Class": null,
+            "Class": [
+                "stimulant",
+                "opioid",
+                "barbiturate"
+            ],
             "_id": 25
         },
         {
@@ -871,5 +891,5 @@
         }
     ],
     "filename": "Validation_Patient44_MME_Result",
-    "timestamp": "2021-08-27T20:00:39.914Z"
+    "timestamp": "2021-09-08T19:03:32.570Z"
 }

@@ -576,8 +576,8 @@
             "Status": null,
             "Class": [
                 "opioid",
-                "barbiturate",
-                "stimulant"
+                "stimulant",
+                "barbiturate"
             ],
             "_id": 17
         },
@@ -957,5 +957,5 @@
         }
     ],
     "filename": "Validation_Patient30_MME_Result",
-    "timestamp": "2021-08-27T17:44:29.713Z"
+    "timestamp": "2021-09-13T19:40:41.849Z"
 }

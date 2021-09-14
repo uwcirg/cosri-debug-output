@@ -83,15 +83,24 @@
                 "value": 1
             },
             "dosesPerDay": 3,
-            "strength": [],
-            "factor": [],
-            "MME": null,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 200
+                }
+            ],
+            "factor": [
+                0.1
+            ],
+            "MME": 60,
             "Prescriber": "Tricia Fonte",
             "Pharmacy": "Pharmacy A, INC.",
-            "NDC_Code": "80425010102",
-            "RXNorm_Code": null,
+            "NDC_Code": "71205046830",
+            "RXNorm_Code": "833711",
             "Status": null,
-            "Class": null,
+            "Class": [
+                "opioid"
+            ],
             "_id": 3
         },
         {
@@ -260,9 +269,9 @@
             "RXNorm_Code": "994237",
             "Status": null,
             "Class": [
+                "stimulant",
                 "opioid",
-                "barbiturate",
-                "stimulant"
+                "barbiturate"
             ],
             "_id": 8
         },
@@ -398,9 +407,9 @@
             "RXNorm_Code": "993943",
             "Status": null,
             "Class": [
+                "stimulant",
                 "opioid",
-                "barbiturate",
-                "stimulant"
+                "barbiturate"
             ],
             "_id": 12
         },
@@ -434,9 +443,9 @@
             "RXNorm_Code": "994237",
             "Status": null,
             "Class": [
+                "stimulant",
                 "opioid",
-                "barbiturate",
-                "stimulant"
+                "barbiturate"
             ],
             "_id": 13
         },
@@ -674,8 +683,8 @@
             "RXNorm_Code": "1190201",
             "Status": null,
             "Class": [
-                "opioid",
-                "stimulant"
+                "stimulant",
+                "opioid"
             ],
             "_id": 20
         },
@@ -743,9 +752,9 @@
             "RXNorm_Code": "994237",
             "Status": null,
             "Class": [
+                "stimulant",
                 "opioid",
-                "barbiturate",
-                "stimulant"
+                "barbiturate"
             ],
             "_id": 22
         },
@@ -1023,5 +1032,5 @@
         }
     ],
     "filename": "Validation_Patient26_MME_Result",
-    "timestamp": "2021-08-27T17:40:04.785Z"
+    "timestamp": "2021-09-08T18:50:50.654Z"
 }

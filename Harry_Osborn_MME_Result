@@ -1,0 +1,428 @@
+{
+    "context": "CQL PMP MME Result",
+    "data": [
+        {
+            "Type": "Request",
+            "Name": "1 ML butorphanol tartrate 1 MG/ML Injection",
+            "Start": "2021-01-10",
+            "DispensedDate": "2021-01-10",
+            "CalculatedEnd": "2021-01-11",
+            "End": "2021-01-11",
+            "Quantity": 1,
+            "Duration": 1,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 1
+                }
+            ],
+            "factor": [
+                7
+            ],
+            "MME": 7,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "00409162301",
+            "RXNorm_Code": "886627",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 1
+        },
+        {
+            "Type": "Request",
+            "Name": "butorphanol tartrate 1 MG/ACTUAT Metered Dose Nasal Spray",
+            "Start": "2020-12-06",
+            "DispensedDate": "2020-12-06",
+            "CalculatedEnd": "2021-01-05",
+            "End": "2021-01-05",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [
+                {
+                    "unit": "mg/{actuat}",
+                    "value": 1
+                }
+            ],
+            "factor": [
+                7
+            ],
+            "MME": 7,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan, INC.",
+            "NDC_Code": "00378963943",
+            "RXNorm_Code": "886634",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 2
+        },
+        {
+            "Type": "Request",
+            "Name": "butorphanol tartrate 1 MG/ACTUAT Metered Dose Nasal Spray",
+            "Start": "2019-08-14",
+            "DispensedDate": "2019-08-14",
+            "CalculatedEnd": "2019-08-15",
+            "End": "2019-08-15",
+            "Quantity": 1,
+            "Duration": 1,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [
+                {
+                    "unit": "mg/{actuat}",
+                    "value": 1
+                }
+            ],
+            "factor": [
+                7
+            ],
+            "MME": 7,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "60505081301",
+            "RXNorm_Code": "886634",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 3
+        },
+        {
+            "Type": "Request",
+            "Name": "butorphanol tartrate 1 MG/ACTUAT Metered Dose Nasal Spray",
+            "Start": "2019-01-10",
+            "DispensedDate": "2019-01-10",
+            "CalculatedEnd": "2019-02-09",
+            "End": "2019-02-09",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [
+                {
+                    "unit": "mg/{actuat}",
+                    "value": 1
+                }
+            ],
+            "factor": [
+                7
+            ],
+            "MME": 7,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "00054309036",
+            "RXNorm_Code": "886634",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 4
+        },
+        {
+            "Type": "Request",
+            "Name": "72 HR fentanyl 0.0375 MG/HR Transdermal System",
+            "Start": "2021-01-10",
+            "DispensedDate": null,
+            "CalculatedEnd": null,
+            "End": null,
+            "Quantity": 10,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 0.3333333333333333,
+            "strength": [
+                {
+                    "unit": "ug/h",
+                    "value": 37.5
+                }
+            ],
+            "factor": [
+                7.2
+            ],
+            "MME": 90,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "60505701502",
+            "RXNorm_Code": "1603495",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 5
+        },
+        {
+            "Type": "Request",
+            "Name": "meperidine hydrochloride 50 MG Oral Tablet[Demerol]",
+            "Start": "2019-01-10",
+            "DispensedDate": null,
+            "CalculatedEnd": null,
+            "End": null,
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 50
+                }
+            ],
+            "factor": [
+                0.1
+            ],
+            "MME": 5,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "42806005001",
+            "RXNorm_Code": "861467",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 6
+        },
+        {
+            "Type": "Request",
+            "Name": "meperidine hydrochloride 50 MG Oral Tablet[Demerol]",
+            "Start": "2021-04-10",
+            "DispensedDate": "2021-04-10",
+            "CalculatedEnd": "2021-05-10",
+            "End": "2021-05-10",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 50
+                }
+            ],
+            "factor": [
+                0.1
+            ],
+            "MME": 5,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "46672082910",
+            "RXNorm_Code": "861467",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 7
+        },
+        {
+            "Type": "Request",
+            "Name": "methamphetamine hydrochloride 5 MG Oral Tablet [Desoxyn]",
+            "Start": "2020-10-10",
+            "DispensedDate": "2020-10-10",
+            "CalculatedEnd": "2020-11-09",
+            "End": "2020-11-09",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "55292010401",
+            "RXNorm_Code": "977861",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 8
+        },
+        {
+            "Type": "Request",
+            "Name": "\t1 ML meperidine hydrochloride 100 MG/ML Prefilled Syringe [Demerol]",
+            "Start": "2020-09-01",
+            "DispensedDate": "2020-09-01",
+            "CalculatedEnd": "2020-10-01",
+            "End": "2020-10-01",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 100
+                }
+            ],
+            "factor": [
+                0.3
+            ],
+            "MME": 30,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "00409137711",
+            "RXNorm_Code": "2539196",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 9
+        },
+        {
+            "Type": "Request",
+            "Name": "meperidine hydrochloride 50 MG Oral Tablet[Demerol]",
+            "Start": "2020-06-10",
+            "DispensedDate": "2020-07-08",
+            "CalculatedEnd": "2020-08-07",
+            "End": "2020-08-07",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 50
+                }
+            ],
+            "factor": [
+                0.1
+            ],
+            "MME": 5,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "42806005030",
+            "RXNorm_Code": "861467",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 10
+        },
+        {
+            "Type": "Request",
+            "Name": "oxandrolone 2.5 MG Oral Tablet",
+            "Start": "2019-07-09",
+            "DispensedDate": "2019-07-09",
+            "CalculatedEnd": "2019-08-08",
+            "End": "2019-08-08",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "63629760301",
+            "RXNorm_Code": "198056",
+            "Status": null,
+            "Class": [
+                "steroid"
+            ],
+            "_id": 11
+        },
+        {
+            "Type": "Request",
+            "Name": "2 ML Oliceridine 1 MG/ML Injection [Olinvyk]",
+            "Start": "2019-02-10",
+            "DispensedDate": "2019-02-10",
+            "CalculatedEnd": "2019-03-12",
+            "End": "2019-03-12",
+            "Quantity": 90,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 3,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 1
+                }
+            ],
+            "factor": [
+                5
+            ],
+            "MME": 15,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "71308002110",
+            "RXNorm_Code": "2392243",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 12
+        },
+        {
+            "Type": "Request",
+            "Name": "oxazepam 10 MG Oral Capsule",
+            "Start": "2019-01-10",
+            "DispensedDate": "2019-01-10",
+            "CalculatedEnd": "2019-02-09",
+            "End": "2019-02-09",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "67544011760",
+            "RXNorm_Code": "198057",
+            "Status": null,
+            "Class": [
+                "benzodiazepine"
+            ],
+            "_id": 13
+        }
+    ],
+    "filename": "Harry_Osborn_MME_Result",
+    "timestamp": "2021-09-14T02:39:54.716Z"
+}

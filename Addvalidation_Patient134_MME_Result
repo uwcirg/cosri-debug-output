@@ -1,0 +1,1707 @@
+{
+    "context": "CQL PMP MME Result",
+    "data": [
+        {
+            "Type": "Request",
+            "Name": "meperidine hydrochloride 50 MG Oral Tablet",
+            "Start": "2021-07-29",
+            "DispensedDate": "2021-07-29",
+            "CalculatedEnd": "2021-08-08",
+            "End": "2021-08-08",
+            "Quantity": 6,
+            "Duration": 10,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 0.6,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 50
+                }
+            ],
+            "factor": [
+                0.1
+            ],
+            "MME": 3,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "60429053401",
+            "RXNorm_Code": "861467",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 1
+        },
+        {
+            "Type": "Request",
+            "Name": "1 ML butorphanol tartrate 2 MG/ML Injection",
+            "Start": "2021-07-27",
+            "DispensedDate": "2021-07-27",
+            "CalculatedEnd": "2021-07-29",
+            "End": "2021-07-29",
+            "Quantity": 4,
+            "Duration": 2,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 2
+                }
+            ],
+            "factor": [
+                7
+            ],
+            "MME": 28,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "00409162610",
+            "RXNorm_Code": "1728351",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 2
+        },
+        {
+            "Type": "Request",
+            "Name": "butorphanol tartrate 1 MG/ACTUAT Metered Dose Nasal Spray",
+            "Start": "2021-07-23",
+            "DispensedDate": "2021-07-23",
+            "CalculatedEnd": "2021-07-27",
+            "End": "2021-07-27",
+            "Quantity": 30,
+            "Duration": 4,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 7.5,
+            "strength": [
+                {
+                    "unit": "mg/{actuat}",
+                    "value": 1
+                }
+            ],
+            "factor": [
+                7
+            ],
+            "MME": 52.5,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "00378963943",
+            "RXNorm_Code": "886634",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 3
+        },
+        {
+            "Type": "Request",
+            "Name": "acetaminophen 325 MG / benzhydrocodone 4.08 MG Oral Tablet [Apadaz]\u00c2\u00a0",
+            "Start": "2021-06-23",
+            "DispensedDate": "2021-06-23",
+            "CalculatedEnd": "2021-07-23",
+            "End": "2021-07-23",
+            "Quantity": 6,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 0.2,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 4.08
+                }
+            ],
+            "factor": [
+                1.22
+            ],
+            "MME": 0.9955200000000001,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "10702034001",
+            "RXNorm_Code": "2118730",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 4
+        },
+        {
+            "Type": "Request",
+            "Name": "fentanyl 0.8 MG/ACTUAT Mucosal Spray [Subsys]",
+            "Start": "2021-05-24",
+            "DispensedDate": "2021-05-24",
+            "CalculatedEnd": "2021-06-23",
+            "End": "2021-06-23",
+            "Quantity": 1,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 0.03333333333333333,
+            "strength": [
+                {
+                    "unit": "mg/{actuat}",
+                    "value": 0.8
+                }
+            ],
+            "factor": [
+                0.16
+            ],
+            "MME": 0.004266666666666667,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "20482000801",
+            "RXNorm_Code": "1237070",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 5
+        },
+        {
+            "Type": "Request",
+            "Name": "1.5 ML meperidine hydrochloride 50 MG/ML Injection [Demerol]\u00c2\u00a0",
+            "Start": "2021-05-19",
+            "DispensedDate": "2021-05-19",
+            "CalculatedEnd": "2021-05-24",
+            "End": "2021-05-24",
+            "Quantity": 8,
+            "Duration": 5,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1.6,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 50
+                }
+            ],
+            "factor": [
+                0.1
+            ],
+            "MME": 8,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "00409125411",
+            "RXNorm_Code": "1665691",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 6
+        },
+        {
+            "Type": "Request",
+            "Name": "butorphanol 10 MG/ML Injectable Solution",
+            "Start": "2021-05-16",
+            "DispensedDate": "2021-05-16",
+            "CalculatedEnd": "2021-05-19",
+            "End": "2021-05-19",
+            "Quantity": 3,
+            "Duration": 3,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                7
+            ],
+            "MME": 70,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "11695683802",
+            "RXNorm_Code": "1302739",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 7
+        },
+        {
+            "Type": "Request",
+            "Name": "meperidine hydrochloride 100 MG Oral Tablet",
+            "Start": "2021-05-14",
+            "DispensedDate": "2021-05-14",
+            "CalculatedEnd": "2021-05-16",
+            "End": "2021-05-16",
+            "Quantity": 8,
+            "Duration": 2,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 100
+                }
+            ],
+            "factor": [
+                0.1
+            ],
+            "MME": 40,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "00555039202",
+            "RXNorm_Code": "861455",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 8
+        },
+        {
+            "Type": "Request",
+            "Name": "fentanyl 0.8 MG/ACTUAT Mucosal Spray [Subsys]",
+            "Start": "2021-04-14",
+            "DispensedDate": "2021-04-14",
+            "CalculatedEnd": "2021-05-14",
+            "End": "2021-05-14",
+            "Quantity": 1,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 0.03333333333333333,
+            "strength": [
+                {
+                    "unit": "mg/{actuat}",
+                    "value": 0.8
+                }
+            ],
+            "factor": [
+                0.16
+            ],
+            "MME": 0.004266666666666667,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "20482000830",
+            "RXNorm_Code": "1237070",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 9
+        },
+        {
+            "Type": "Request",
+            "Name": "1 ML meperidine hydrochloride 50 MG/ML Prefilled Syringe [Demerol]\u00c2\u00a0",
+            "Start": "2021-04-12",
+            "DispensedDate": "2021-04-12",
+            "CalculatedEnd": "2021-04-14",
+            "End": "2021-04-14",
+            "Quantity": 8,
+            "Duration": 2,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 50
+                }
+            ],
+            "factor": [
+                0.3
+            ],
+            "MME": 60,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "00409141811",
+            "RXNorm_Code": "2539188",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 10
+        },
+        {
+            "Type": "Request",
+            "Name": "butorphanol 10 MG/ML Injectable Solution",
+            "Start": "2021-04-09",
+            "DispensedDate": "2021-04-09",
+            "CalculatedEnd": "2021-04-12",
+            "End": "2021-04-12",
+            "Quantity": 8,
+            "Duration": 3,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.6666666666666665,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                7
+            ],
+            "MME": 186.66666666666666,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "00859239502",
+            "RXNorm_Code": "1302739",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 11
+        },
+        {
+            "Type": "Request",
+            "Name": "fentanyl 0.1 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]\u00c2\u00a0",
+            "Start": "2021-03-10",
+            "DispensedDate": "2021-03-10",
+            "CalculatedEnd": "2021-04-09",
+            "End": "2021-04-09",
+            "Quantity": 3,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 0.1,
+            "strength": [
+                {
+                    "unit": "ug/{actuat}",
+                    "value": 100
+                }
+            ],
+            "factor": [
+                0.16
+            ],
+            "MME": 1.6,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "13913000901",
+            "RXNorm_Code": "1115575",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 12
+        },
+        {
+            "Type": "Request",
+            "Name": "meperidine hydrochloride 50 MG Oral Tablet",
+            "Start": "2021-03-09",
+            "DispensedDate": "2021-03-09",
+            "CalculatedEnd": "2021-03-10",
+            "End": "2021-03-10",
+            "Quantity": 8,
+            "Duration": 1,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 8,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 50
+                }
+            ],
+            "factor": [
+                0.1
+            ],
+            "MME": 40,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "49999083730",
+            "RXNorm_Code": "861467",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 13
+        },
+        {
+            "Type": "Request",
+            "Name": "2 (fentanyl 0.6 MG/ACTUAT Mucosal Spray [Subsys] 1200 MCG",
+            "Start": "2021-02-07",
+            "DispensedDate": "2021-02-07",
+            "CalculatedEnd": "2021-03-09",
+            "End": "2021-03-09",
+            "Quantity": 1,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 0.03333333333333333,
+            "strength": [
+                {
+                    "unit": "mg/{actuat}",
+                    "value": 0.6
+                }
+            ],
+            "factor": [
+                0.18
+            ],
+            "MME": 0.0036,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "20482001215",
+            "RXNorm_Code": "1740008",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 14
+        },
+        {
+            "Type": "Request",
+            "Name": "meperidine hydrochloride 100 MG Oral Tablet",
+            "Start": "2021-01-28",
+            "DispensedDate": "2021-01-28",
+            "CalculatedEnd": "2021-02-07",
+            "End": "2021-02-07",
+            "Quantity": 6,
+            "Duration": 10,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 0.6,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 100
+                }
+            ],
+            "factor": [
+                0.1
+            ],
+            "MME": 6,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "60429053501",
+            "RXNorm_Code": "861455",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 15
+        },
+        {
+            "Type": "Request",
+            "Name": "1 ML butorphanol tartrate 2 MG/ML Injection",
+            "Start": "2021-01-26",
+            "DispensedDate": "2021-01-26",
+            "CalculatedEnd": "2021-01-28",
+            "End": "2021-01-28",
+            "Quantity": 2,
+            "Duration": 2,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 2
+                }
+            ],
+            "factor": [
+                7
+            ],
+            "MME": 14,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "00409162609",
+            "RXNorm_Code": "1728351",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 16
+        },
+        {
+            "Type": "Request",
+            "Name": "1 ML meperidine hydrochloride 75 MG/ML Prefilled Syringe [Demerol]\u00c2\u00a0",
+            "Start": "2021-01-23",
+            "DispensedDate": "2021-01-23",
+            "CalculatedEnd": "2021-01-26",
+            "End": "2021-01-26",
+            "Quantity": 8,
+            "Duration": 3,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.6666666666666665,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 75
+                }
+            ],
+            "factor": [
+                0.3
+            ],
+            "MME": 60,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "00409203311",
+            "RXNorm_Code": "2539200",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 17
+        },
+        {
+            "Type": "Request",
+            "Name": "fentanyl 0.4 MG/ACTUAT Mucosal Spray [Subsys]",
+            "Start": "2020-12-24",
+            "DispensedDate": "2020-12-24",
+            "CalculatedEnd": "2021-01-23",
+            "End": "2021-01-23",
+            "Quantity": 1,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 0.03333333333333333,
+            "strength": [
+                {
+                    "unit": "mg/{actuat}",
+                    "value": 0.4
+                }
+            ],
+            "factor": [
+                0.16
+            ],
+            "MME": 0.0021333333333333334,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "20482000430",
+            "RXNorm_Code": "1237062",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 18
+        },
+        {
+            "Type": "Request",
+            "Name": "1 ML meperidine hydrochloride 100 MG/ML Prefilled Syringe [Demerol]\u00c2\u00a0",
+            "Start": "2020-12-21",
+            "DispensedDate": "2020-12-21",
+            "CalculatedEnd": "2020-12-24",
+            "End": "2020-12-24",
+            "Quantity": 8,
+            "Duration": 3,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.6666666666666665,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 100
+                }
+            ],
+            "factor": [
+                0.3
+            ],
+            "MME": 79.99999999999999,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "00409137711",
+            "RXNorm_Code": "2539196",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 19
+        },
+        {
+            "Type": "Request",
+            "Name": "meperidine hydrochloride 10 MG/ML Injectable Solution",
+            "Start": "2020-12-20",
+            "DispensedDate": "2020-12-20",
+            "CalculatedEnd": "2020-12-21",
+            "End": "2020-12-21",
+            "Quantity": 8,
+            "Duration": 1,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 8,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                0.1
+            ],
+            "MME": 8,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "00338269175",
+            "RXNorm_Code": "861447",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 20
+        },
+        {
+            "Type": "Request",
+            "Name": "1 ML meperidine hydrochloride 100 MG/ML Injection",
+            "Start": "2020-12-17",
+            "DispensedDate": "2020-12-17",
+            "CalculatedEnd": "2020-12-20",
+            "End": "2020-12-20",
+            "Quantity": 8,
+            "Duration": 3,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.6666666666666665,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 100
+                }
+            ],
+            "factor": [
+                0.1
+            ],
+            "MME": 26.666666666666664,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "00641605425",
+            "RXNorm_Code": "1665685",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 21
+        },
+        {
+            "Type": "Request",
+            "Name": "fentanyl 0.1 MG/ACTUAT Mucosal Spray [Subsys]",
+            "Start": "2020-11-17",
+            "DispensedDate": "2020-11-17",
+            "CalculatedEnd": "2020-12-17",
+            "End": "2020-12-17",
+            "Quantity": 3,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 0.1,
+            "strength": [
+                {
+                    "unit": "ug/{actuat}",
+                    "value": 100
+                }
+            ],
+            "factor": [
+                0.16
+            ],
+            "MME": 1.6,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "20482000110",
+            "RXNorm_Code": "1237055",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 22
+        },
+        {
+            "Type": "Request",
+            "Name": "fentanyl 0.4 MG/ACTUAT Mucosal Spray [Subsys]",
+            "Start": "2020-10-18",
+            "DispensedDate": "2020-10-18",
+            "CalculatedEnd": "2020-11-17",
+            "End": "2020-11-17",
+            "Quantity": 1,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 0.03333333333333333,
+            "strength": [
+                {
+                    "unit": "mg/{actuat}",
+                    "value": 0.4
+                }
+            ],
+            "factor": [
+                0.16
+            ],
+            "MME": 0.0021333333333333334,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "20482000401",
+            "RXNorm_Code": "1237062",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 23
+        },
+        {
+            "Type": "Request",
+            "Name": "meperidine hydrochloride 10 MG/ML Injectable Solution",
+            "Start": "2020-10-15",
+            "DispensedDate": "2020-10-15",
+            "CalculatedEnd": "2020-10-18",
+            "End": "2020-10-18",
+            "Quantity": 8,
+            "Duration": 3,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.6666666666666665,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                0.1
+            ],
+            "MME": 2.6666666666666665,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "00409603004",
+            "RXNorm_Code": "861447",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 24
+        },
+        {
+            "Type": "Request",
+            "Name": "fentanyl 0.8 MG Buccal Tablet",
+            "Start": "2020-08-16",
+            "DispensedDate": "2020-08-16",
+            "CalculatedEnd": "2020-10-15",
+            "End": "2020-10-15",
+            "Quantity": 1,
+            "Duration": 60,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 0.016666666666666666,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 0.8
+                }
+            ],
+            "factor": [
+                0.13
+            ],
+            "MME": 0.0017333333333333335,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "51862063801",
+            "RXNorm_Code": "668367",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 25
+        },
+        {
+            "Type": "Request",
+            "Name": "1 ML butorphanol tartrate 2 MG/ML Injection",
+            "Start": "2020-08-15",
+            "DispensedDate": "2020-08-15",
+            "CalculatedEnd": "2020-08-16",
+            "End": "2020-08-16",
+            "Quantity": 3,
+            "Duration": 1,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 3,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 2
+                }
+            ],
+            "factor": [
+                7
+            ],
+            "MME": 42,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "00409162649",
+            "RXNorm_Code": "1728351",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 26
+        },
+        {
+            "Type": "Request",
+            "Name": "1 ML meperidine hydrochloride 25 MG/ML Injection",
+            "Start": "2020-08-11",
+            "DispensedDate": "2020-08-11",
+            "CalculatedEnd": "2020-08-15",
+            "End": "2020-08-15",
+            "Quantity": 8,
+            "Duration": 4,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 25
+                }
+            ],
+            "factor": [
+                0.1
+            ],
+            "MME": 5,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "00641605201",
+            "RXNorm_Code": "861476",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 27
+        },
+        {
+            "Type": "Request",
+            "Name": "2 ML butorphanol tartrate 2 MG/ML Injection\u00c2\u00a0",
+            "Start": "2020-08-08",
+            "DispensedDate": "2020-08-08",
+            "CalculatedEnd": "2020-08-11",
+            "End": "2020-08-11",
+            "Quantity": 8,
+            "Duration": 3,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.6666666666666665,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 2
+                }
+            ],
+            "factor": [
+                7
+            ],
+            "MME": 37.33333333333333,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "00409162651",
+            "RXNorm_Code": "1728355",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 28
+        },
+        {
+            "Type": "Request",
+            "Name": "fentanyl 0.2 MG/ACTUAT Mucosal Spray [Subsys]\u00c2\u00a0",
+            "Start": "2020-07-09",
+            "DispensedDate": "2020-07-09",
+            "CalculatedEnd": "2020-08-08",
+            "End": "2020-08-08",
+            "Quantity": 1,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 0.03333333333333333,
+            "strength": [
+                {
+                    "unit": "mg/{actuat}",
+                    "value": 0.2
+                }
+            ],
+            "factor": [
+                0.16
+            ],
+            "MME": 0.0010666666666666667,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "20482000230",
+            "RXNorm_Code": "1237059",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 29
+        },
+        {
+            "Type": "Request",
+            "Name": "1 ML butorphanol tartrate 2 MG/ML Injection",
+            "Start": "2020-07-04",
+            "DispensedDate": "2020-07-04",
+            "CalculatedEnd": "2020-07-09",
+            "End": "2020-07-09",
+            "Quantity": 8,
+            "Duration": 5,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1.6,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 2
+                }
+            ],
+            "factor": [
+                7
+            ],
+            "MME": 22.400000000000002,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "55390018401",
+            "RXNorm_Code": "1728351",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 30
+        },
+        {
+            "Type": "Request",
+            "Name": "2 ML meperidine hydrochloride 50 MG/ML Injection [Demerol]",
+            "Start": "2020-07-03",
+            "DispensedDate": "2020-07-03",
+            "CalculatedEnd": "2020-07-04",
+            "End": "2020-07-04",
+            "Quantity": 8,
+            "Duration": 1,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 8,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 50
+                }
+            ],
+            "factor": [
+                0.1
+            ],
+            "MME": 40,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "00409125502",
+            "RXNorm_Code": "1665702",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 31
+        },
+        {
+            "Type": "Request",
+            "Name": "fentanyl 0.8 MG Buccal Tablet",
+            "Start": "2020-06-18",
+            "DispensedDate": "2020-06-18",
+            "CalculatedEnd": "2020-07-03",
+            "End": "2020-07-03",
+            "Quantity": 3,
+            "Duration": 15,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 0.2,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 0.8
+                }
+            ],
+            "factor": [
+                0.13
+            ],
+            "MME": 0.020800000000000006,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "51862063828",
+            "RXNorm_Code": "668367",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 32
+        },
+        {
+            "Type": "Request",
+            "Name": "fentanyl 0.6 MG/ACTUAT Mucosal Spray [Subsys]",
+            "Start": "2020-05-19",
+            "DispensedDate": "2020-05-19",
+            "CalculatedEnd": "2020-06-18",
+            "End": "2020-06-18",
+            "Quantity": 3,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 0.1,
+            "strength": [
+                {
+                    "unit": "mg/{actuat}",
+                    "value": 0.6
+                }
+            ],
+            "factor": [
+                0.16
+            ],
+            "MME": 0.0096,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "20482000610",
+            "RXNorm_Code": "1237066",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 33
+        },
+        {
+            "Type": "Request",
+            "Name": "meperidine hydrochloride 50 MG Oral Tablet",
+            "Start": "2020-05-16",
+            "DispensedDate": "2020-05-16",
+            "CalculatedEnd": "2020-05-19",
+            "End": "2020-05-19",
+            "Quantity": 8,
+            "Duration": 3,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.6666666666666665,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 50
+                }
+            ],
+            "factor": [
+                0.1
+            ],
+            "MME": 13.333333333333332,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "46672082950",
+            "RXNorm_Code": "861467",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 34
+        },
+        {
+            "Type": "Request",
+            "Name": "butorphanol 10 MG/ML Injectable Solution",
+            "Start": "2020-05-11",
+            "DispensedDate": "2020-05-11",
+            "CalculatedEnd": "2020-05-16",
+            "End": "2020-05-16",
+            "Quantity": 8,
+            "Duration": 5,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1.6,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                7
+            ],
+            "MME": 112,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "14043070150",
+            "RXNorm_Code": "1302739",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 35
+        },
+        {
+            "Type": "Request",
+            "Name": "meperidine hydrochloride 50 MG Oral Tablet",
+            "Start": "2020-05-08",
+            "DispensedDate": "2020-05-08",
+            "CalculatedEnd": "2020-05-11",
+            "End": "2020-05-11",
+            "Quantity": 8,
+            "Duration": 3,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.6666666666666665,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 50
+                }
+            ],
+            "factor": [
+                0.1
+            ],
+            "MME": 13.333333333333332,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "55887005130",
+            "RXNorm_Code": "861467",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 36
+        },
+        {
+            "Type": "Request",
+            "Name": "1 ML meperidine hydrochloride 25 MG/ML Prefilled Syringe [Demerol]",
+            "Start": "2020-05-07",
+            "DispensedDate": "2020-05-07",
+            "CalculatedEnd": "2020-05-08",
+            "End": "2020-05-08",
+            "Quantity": 8,
+            "Duration": 1,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 8,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 25
+                }
+            ],
+            "factor": [
+                0.3
+            ],
+            "MME": 60,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "00409136201",
+            "RXNorm_Code": "2539192",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 37
+        },
+        {
+            "Type": "Request",
+            "Name": "2 (fentanyl 0.8 MG/ACTUAT Mucosal Spray [Subsys]) 1600 MCG",
+            "Start": "2020-04-07",
+            "DispensedDate": "2020-04-07",
+            "CalculatedEnd": "2020-05-07",
+            "End": "2020-05-07",
+            "Quantity": 1,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 0.03333333333333333,
+            "strength": [
+                {
+                    "unit": "mg/{actuat}",
+                    "value": 0.8
+                }
+            ],
+            "factor": [
+                0.18
+            ],
+            "MME": 0.0048000000000000004,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "20482001615",
+            "RXNorm_Code": "1740010",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 38
+        },
+        {
+            "Type": "Request",
+            "Name": "fentanyl 0.6 MG/ACTUAT Mucosal Spray [Subsys]",
+            "Start": "2020-03-08",
+            "DispensedDate": "2020-03-08",
+            "CalculatedEnd": "2020-04-07",
+            "End": "2020-04-07",
+            "Quantity": 1,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 0.03333333333333333,
+            "strength": [
+                {
+                    "unit": "mg/{actuat}",
+                    "value": 0.6
+                }
+            ],
+            "factor": [
+                0.16
+            ],
+            "MME": 0.0032,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "20482000601",
+            "RXNorm_Code": "1237066",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 39
+        },
+        {
+            "Type": "Request",
+            "Name": "3 (fentanyl 0.6 MG/ACTUAT Mucosal Spray [Subsys] 1200 MCG",
+            "Start": "2020-02-07",
+            "DispensedDate": "2020-02-07",
+            "CalculatedEnd": "2020-03-08",
+            "End": "2020-03-08",
+            "Quantity": 1,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 0.03333333333333333,
+            "strength": [
+                {
+                    "unit": "mg/{actuat}",
+                    "value": 0.6
+                }
+            ],
+            "factor": [
+                0.18
+            ],
+            "MME": 0.0036,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "71500001215",
+            "RXNorm_Code": "1740008",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 40
+        },
+        {
+            "Type": "Request",
+            "Name": "meperidine hydrochloride 100 MG Oral Tablet",
+            "Start": "2020-02-04",
+            "DispensedDate": "2020-02-04",
+            "CalculatedEnd": "2020-02-07",
+            "End": "2020-02-07",
+            "Quantity": 8,
+            "Duration": 3,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2.6666666666666665,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 100
+                }
+            ],
+            "factor": [
+                0.1
+            ],
+            "MME": 26.666666666666664,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "42806005101",
+            "RXNorm_Code": "861455",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 41
+        },
+        {
+            "Type": "Request",
+            "Name": "meperidine hydrochloride 50 MG Oral Tablet",
+            "Start": "2020-02-02",
+            "DispensedDate": "2020-02-02",
+            "CalculatedEnd": "2020-02-04",
+            "End": "2020-02-04",
+            "Quantity": 8,
+            "Duration": 2,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 50
+                }
+            ],
+            "factor": [
+                0.1
+            ],
+            "MME": 20,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "00555038102",
+            "RXNorm_Code": "861467",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 42
+        },
+        {
+            "Type": "Request",
+            "Name": "1 ML butorphanol tartrate 2 MG/ML Injection",
+            "Start": "2020-02-01",
+            "DispensedDate": "2020-02-01",
+            "CalculatedEnd": "2020-02-02",
+            "End": "2020-02-02",
+            "Quantity": 4,
+            "Duration": 1,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 4,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 2
+                }
+            ],
+            "factor": [
+                7
+            ],
+            "MME": 56,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "00409162601",
+            "RXNorm_Code": "1728351",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 43
+        },
+        {
+            "Type": "Request",
+            "Name": "fentanyl 0.3 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",
+            "Start": "2020-01-02",
+            "DispensedDate": "2020-01-02",
+            "CalculatedEnd": "2020-02-01",
+            "End": "2020-02-01",
+            "Quantity": 3,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 0.1,
+            "strength": [
+                {
+                    "unit": "mg/{actuat}",
+                    "value": 0.3
+                }
+            ],
+            "factor": [
+                0.16
+            ],
+            "MME": 0.0048,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "13913001301",
+            "RXNorm_Code": "1729322",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 44
+        },
+        {
+            "Type": "Request",
+            "Name": "fentanyl 0.1 MG/ACTUAT Mucosal Spray [Subsys]",
+            "Start": "2019-12-03",
+            "DispensedDate": "2019-12-03",
+            "CalculatedEnd": "2020-01-02",
+            "End": "2020-01-02",
+            "Quantity": 1,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 0.03333333333333333,
+            "strength": [
+                {
+                    "unit": "ug/{actuat}",
+                    "value": 100
+                }
+            ],
+            "factor": [
+                0.16
+            ],
+            "MME": 0.5333333333333333,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "20482000101",
+            "RXNorm_Code": "1237055",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 45
+        },
+        {
+            "Type": "Request",
+            "Name": "fentanyl 0.8 MG/ACTUAT Mucosal Spray [Subsys]",
+            "Start": "2019-11-03",
+            "DispensedDate": "2019-11-03",
+            "CalculatedEnd": "2019-12-03",
+            "End": "2019-12-03",
+            "Quantity": 3,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 0.1,
+            "strength": [
+                {
+                    "unit": "mg/{actuat}",
+                    "value": 0.8
+                }
+            ],
+            "factor": [
+                0.16
+            ],
+            "MME": 0.012800000000000002,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "20482000810",
+            "RXNorm_Code": "1237070",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 46
+        },
+        {
+            "Type": "Request",
+            "Name": "fentanyl 0.6 MG/ACTUAT Mucosal Spray [Subsys]",
+            "Start": "2019-10-04",
+            "DispensedDate": "2019-10-04",
+            "CalculatedEnd": "2019-11-03",
+            "End": "2019-11-03",
+            "Quantity": 3,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 0.1,
+            "strength": [
+                {
+                    "unit": "mg/{actuat}",
+                    "value": 0.6
+                }
+            ],
+            "factor": [
+                0.16
+            ],
+            "MME": 0.0096,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "71500000630",
+            "RXNorm_Code": "1237066",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 47
+        },
+        {
+            "Type": "Request",
+            "Name": "1 ML butorphanol tartrate 1 MG/ML Injection",
+            "Start": "2019-10-03",
+            "DispensedDate": "2019-10-03",
+            "CalculatedEnd": "2019-10-04",
+            "End": "2019-10-04",
+            "Quantity": 2,
+            "Duration": 1,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 2,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 1
+                }
+            ],
+            "factor": [
+                7
+            ],
+            "MME": 14,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "00143986410",
+            "RXNorm_Code": "886627",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 48
+        },
+        {
+            "Type": "Request",
+            "Name": "butorphanol 10 MG/ML Injectable Solution",
+            "Start": "2019-10-01",
+            "DispensedDate": "2019-10-01",
+            "CalculatedEnd": "2019-10-03",
+            "End": "2019-10-03",
+            "Quantity": 2,
+            "Duration": 2,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [
+                {
+                    "unit": "mg/mL",
+                    "value": 10
+                }
+            ],
+            "factor": [
+                7
+            ],
+            "MME": 70,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "46066075201",
+            "RXNorm_Code": "1302739",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 49
+        },
+        {
+            "Type": "Request",
+            "Name": "fentanyl 0.6 MG/ACTUAT Mucosal Spray [Subsys]",
+            "Start": "2019-09-01",
+            "DispensedDate": "2019-09-01",
+            "CalculatedEnd": "2019-10-01",
+            "End": "2019-10-01",
+            "Quantity": 1,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 0.03333333333333333,
+            "strength": [
+                {
+                    "unit": "mg/{actuat}",
+                    "value": 0.6
+                }
+            ],
+            "factor": [
+                0.16
+            ],
+            "MME": 0.0032,
+            "Prescriber": "Tricia Fonte",
+            "Pharmacy": "Pharmacy A, INC.",
+            "NDC_Code": "20482000630",
+            "RXNorm_Code": "1237066",
+            "Status": null,
+            "Class": [
+                "opioid"
+            ],
+            "_id": 50
+        }
+    ],
+    "filename": "Addvalidation_Patient134_MME_Result",
+    "timestamp": "2021-09-14T02:16:25.044Z"
+}

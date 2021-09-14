@@ -30,7 +30,7 @@
         },
         {
             "Type": "Request",
-            "Name": "hydromorphone 32 MG Extended Release Oral Tablet [Exalgo]",
+            "Name": "flurazepam hydrochloride 30 MG Oral Capsule",
             "Start": "2020-12-06",
             "DispensedDate": "2020-12-06",
             "CalculatedEnd": "2021-01-05",
@@ -42,23 +42,16 @@
                 "value": 1
             },
             "dosesPerDay": 1,
-            "strength": [
-                {
-                    "unit": "mg",
-                    "value": 32
-                }
-            ],
-            "factor": [
-                4
-            ],
-            "MME": 128,
+            "strength": [],
+            "factor": [],
+            "MME": null,
             "Prescriber": "Stan Lee",
             "Pharmacy": "Central Manhattan, INC.",
-            "NDC_Code": "23635043201",
-            "RXNorm_Code": "1306900",
+            "NDC_Code": "52959023630",
+            "RXNorm_Code": "1298091",
             "Status": null,
             "Class": [
-                "opioid"
+                "benzodiazepine"
             ],
             "_id": 2
         },
@@ -369,5 +362,5 @@
         }
     ],
     "filename": "Quartre_Val_MME_Result",
-    "timestamp": "2021-08-26T22:13:19.994Z"
+    "timestamp": "2021-09-08T19:39:28.670Z"
 }

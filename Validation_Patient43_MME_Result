@@ -117,15 +117,24 @@
                 "value": 1
             },
             "dosesPerDay": 5,
-            "strength": [],
-            "factor": [],
-            "MME": null,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 5
+                }
+            ],
+            "factor": [
+                1
+            ],
+            "MME": 25,
             "Prescriber": "Tricia Fonte",
             "Pharmacy": "Pharmacy A, INC.",
-            "NDC_Code": "NA",
-            "RXNorm_Code": null,
+            "NDC_Code": "68308022401",
+            "RXNorm_Code": "1492673",
             "Status": null,
-            "Class": null,
+            "Class": [
+                "opioid"
+            ],
             "_id": 4
         },
         {
@@ -912,5 +921,5 @@
         }
     ],
     "filename": "Validation_Patient43_MME_Result",
-    "timestamp": "2021-08-27T20:00:00.520Z"
+    "timestamp": "2021-09-08T19:02:04.944Z"
 }

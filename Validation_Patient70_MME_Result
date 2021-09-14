@@ -636,9 +636,9 @@
             "RXNorm_Code": "993943",
             "Status": null,
             "Class": [
+                "stimulant",
                 "opioid",
-                "barbiturate",
-                "stimulant"
+                "barbiturate"
             ],
             "_id": 19
         },
@@ -916,5 +916,5 @@
         }
     ],
     "filename": "Validation_Patient70_MME_Result",
-    "timestamp": "2021-08-27T20:37:20.075Z"
+    "timestamp": "2021-09-08T20:38:15.307Z"
 }

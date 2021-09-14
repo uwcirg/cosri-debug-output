@@ -507,9 +507,9 @@
             "RXNorm_Code": "994237",
             "Status": null,
             "Class": [
+                "stimulant",
                 "opioid",
-                "barbiturate",
-                "stimulant"
+                "barbiturate"
             ],
             "_id": 15
         },
@@ -747,8 +747,8 @@
             "RXNorm_Code": "1190201",
             "Status": null,
             "Class": [
-                "opioid",
-                "stimulant"
+                "stimulant",
+                "opioid"
             ],
             "_id": 22
         },
@@ -958,5 +958,5 @@
         }
     ],
     "filename": "Validation_Patient105_MME_Result",
-    "timestamp": "2021-08-27T21:39:54.161Z"
+    "timestamp": "2021-09-08T19:21:06.046Z"
 }

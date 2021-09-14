@@ -65,7 +65,7 @@
         {
             "Type": "Request",
             "Name": "FENTANYL 75 MCG/HR PATCH",
-            "Start": "2018-01-10",
+            "Start": "2021-01-10",
             "DispensedDate": null,
             "CalculatedEnd": null,
             "End": null,
@@ -89,5 +89,5 @@
         }
     ],
     "filename": "Lex_Luthor_MME_Result",
-    "timestamp": "2021-08-25T23:16:37.906Z"
+    "timestamp": "2021-09-13T19:40:06.026Z"
 }

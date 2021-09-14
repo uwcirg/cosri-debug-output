@@ -3,38 +3,11 @@
     "data": [
         {
             "Type": "Request",
-            "Name": "Adzenys 3.1mg exteded release amphetamine",
-            "Start": "2021-04-10",
-            "DispensedDate": "2021-04-10",
-            "CalculatedEnd": "2021-05-10",
-            "End": "2021-05-10",
-            "Quantity": 30,
-            "Duration": 30,
-            "doseQuantity": {
-                "unit": null,
-                "value": 1
-            },
-            "dosesPerDay": 1,
-            "strength": [],
-            "factor": [],
-            "MME": null,
-            "Prescriber": "Stan Lee",
-            "Pharmacy": "Central Manhattan Pharmacy, INC.",
-            "NDC_Code": "70165000530",
-            "RXNorm_Code": "1739827",
-            "Status": null,
-            "Class": [
-                "stimulant"
-            ],
-            "_id": 1
-        },
-        {
-            "Type": "Request",
-            "Name": "benzphetamine hydrochloride 25 MG Oral Tablet",
-            "Start": "2020-10-10",
-            "DispensedDate": "2020-10-10",
-            "CalculatedEnd": "2020-11-09",
-            "End": "2020-11-09",
+            "Name": "FENTANYL 75 MCG/HR PATCH",
+            "Start": "2018-01-10",
+            "DispensedDate": null,
+            "CalculatedEnd": null,
+            "End": null,
             "Quantity": 10,
             "Duration": 30,
             "doseQuantity": {
@@ -42,99 +15,25 @@
                 "value": 1
             },
             "dosesPerDay": 0.3333333333333333,
-            "strength": [],
-            "factor": [],
-            "MME": null,
+            "strength": [
+                {
+                    "unit": "ug/h",
+                    "value": 75
+                }
+            ],
+            "factor": [
+                7.2
+            ],
+            "MME": 180,
             "Prescriber": "Stan Lee",
             "Pharmacy": "Central Manhattan Pharmacy, INC.",
-            "NDC_Code": "75834010001",
-            "RXNorm_Code": "904372",
+            "NDC_Code": "47781042747",
+            "RXNorm_Code": "197696",
             "Status": null,
             "Class": [
-                "stimulant"
+                "opioid"
             ],
-            "_id": 2
-        },
-        {
-            "Type": "Request",
-            "Name": "secobarbital sodium 100 MG",
-            "Start": "2020-06-10",
-            "DispensedDate": "2020-07-08",
-            "CalculatedEnd": "2020-08-07",
-            "End": "2020-08-07",
-            "Quantity": 30,
-            "Duration": 30,
-            "doseQuantity": {
-                "unit": null,
-                "value": 1
-            },
-            "dosesPerDay": 1,
-            "strength": [],
-            "factor": [],
-            "MME": null,
-            "Prescriber": "Stan Lee",
-            "Pharmacy": "Central Manhattan Pharmacy, INC.",
-            "NDC_Code": "00187422010",
-            "RXNorm_Code": "201625",
-            "Status": null,
-            "Class": [
-                "barbiturate"
-            ],
-            "_id": 3
-        },
-        {
-            "Type": "Request",
-            "Name": "alprazolam 0.5 MG Oral Tablet",
-            "Start": "2021-01-10",
-            "DispensedDate": null,
-            "CalculatedEnd": null,
-            "End": null,
-            "Quantity": 30,
-            "Duration": 30,
-            "doseQuantity": {
-                "unit": null,
-                "value": 1
-            },
-            "dosesPerDay": 1,
-            "strength": [],
-            "factor": [],
-            "MME": null,
-            "Prescriber": "Stan Lee",
-            "Pharmacy": "Central Manhattan Pharmacy, INC.",
-            "NDC_Code": "00781107710",
-            "RXNorm_Code": "308048",
-            "Status": null,
-            "Class": [
-                "benzodiazepine"
-            ],
-            "_id": 4
-        },
-        {
-            "Type": "Request",
-            "Name": "diethylpropion hydrochloride 75 MG",
-            "Start": "2019-01-10",
-            "DispensedDate": null,
-            "CalculatedEnd": null,
-            "End": null,
-            "Quantity": 30,
-            "Duration": 30,
-            "doseQuantity": {
-                "unit": null,
-                "value": 1
-            },
-            "dosesPerDay": 1,
-            "strength": [],
-            "factor": [],
-            "MME": null,
-            "Prescriber": "Stan Lee",
-            "Pharmacy": "Central Manhattan Pharmacy, INC.",
-            "NDC_Code": "60346097315",
-            "RXNorm_Code": "978686",
-            "Status": null,
-            "Class": [
-                "stimulant"
-            ],
-            "_id": 5
+            "_id": 1
         },
         {
             "Type": "Request",
@@ -161,115 +60,7 @@
             "Class": [
                 "opioid"
             ],
-            "_id": 6
-        },
-        {
-            "Type": "Request",
-            "Name": "armodafinil 250 MG Oral Tablet [Nuvigil]",
-            "Start": "2020-09-01",
-            "DispensedDate": "2020-09-01",
-            "CalculatedEnd": "2020-10-01",
-            "End": "2020-10-01",
-            "Quantity": 30,
-            "Duration": 30,
-            "doseQuantity": {
-                "unit": null,
-                "value": 1
-            },
-            "dosesPerDay": 1,
-            "strength": [],
-            "factor": [],
-            "MME": null,
-            "Prescriber": "Stan Lee",
-            "Pharmacy": "Central Manhattan Pharmacy, INC.",
-            "NDC_Code": "63459022530",
-            "RXNorm_Code": "805661",
-            "Status": null,
-            "Class": [
-                "stimulant"
-            ],
-            "_id": 7
-        },
-        {
-            "Type": "Request",
-            "Name": "20 ML brexanolone 5 MG/ML Injection",
-            "Start": "2019-07-09",
-            "DispensedDate": "2019-07-09",
-            "CalculatedEnd": "2019-08-08",
-            "End": "2019-08-08",
-            "Quantity": 10,
-            "Duration": 30,
-            "doseQuantity": {
-                "unit": null,
-                "value": 1
-            },
-            "dosesPerDay": 0.3333333333333333,
-            "strength": [],
-            "factor": [],
-            "MME": null,
-            "Prescriber": "Stan Lee",
-            "Pharmacy": "Central Manhattan Pharmacy, INC.",
-            "NDC_Code": "72152054720",
-            "RXNorm_Code": "2121786",
-            "Status": null,
-            "Class": [
-                "steroid"
-            ],
-            "_id": 8
-        },
-        {
-            "Type": "Request",
-            "Name": "acetaminophen 325 MG / benzhydrocodone 4.08 MG Oral Tablet [Apadaz]",
-            "Start": "2019-02-10",
-            "DispensedDate": "2019-02-10",
-            "CalculatedEnd": "2019-03-12",
-            "End": "2019-03-12",
-            "Quantity": 90,
-            "Duration": 30,
-            "doseQuantity": {
-                "unit": null,
-                "value": 1
-            },
-            "dosesPerDay": 3,
-            "strength": [],
-            "factor": [],
-            "MME": null,
-            "Prescriber": "Stan Lee",
-            "Pharmacy": "Central Manhattan Pharmacy, INC.",
-            "NDC_Code": "10702034001",
-            "RXNorm_Code": "2118730",
-            "Status": null,
-            "Class": [
-                "opioid"
-            ],
-            "_id": 9
-        },
-        {
-            "Type": "Request",
-            "Name": "brivaracetam 10 MG Oral Tablet [Briviact]",
-            "Start": "2019-01-10",
-            "DispensedDate": "2019-01-10",
-            "CalculatedEnd": "2019-02-09",
-            "End": "2019-02-09",
-            "Quantity": 30,
-            "Duration": 30,
-            "doseQuantity": {
-                "unit": null,
-                "value": 1
-            },
-            "dosesPerDay": 1,
-            "strength": [],
-            "factor": [],
-            "MME": null,
-            "Prescriber": "Stan Lee",
-            "Pharmacy": "Central Manhattan Pharmacy, INC.",
-            "NDC_Code": "50474037066",
-            "RXNorm_Code": "1739766",
-            "Status": null,
-            "Class": [
-                "antiepileptic"
-            ],
-            "_id": 10
+            "_id": 2
         },
         {
             "Type": "Request",
@@ -296,7 +87,7 @@
             "Class": [
                 "sedative"
             ],
-            "_id": 11
+            "_id": 3
         },
         {
             "Type": "Request",
@@ -330,15 +121,96 @@
             "Class": [
                 "opioid"
             ],
-            "_id": 12
+            "_id": 4
         },
         {
             "Type": "Request",
-            "Name": "FENTANYL 75 MCG/HR PATCH",
-            "Start": "2018-01-10",
+            "Name": "alprazolam 0.5 MG Oral Tablet",
+            "Start": "2021-01-10",
             "DispensedDate": null,
             "CalculatedEnd": null,
             "End": null,
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "00781107710",
+            "RXNorm_Code": "308048",
+            "Status": null,
+            "Class": [
+                "benzodiazepine"
+            ],
+            "_id": 5
+        },
+        {
+            "Type": "Request",
+            "Name": "diethylpropion hydrochloride 75 MG",
+            "Start": "2019-01-10",
+            "DispensedDate": null,
+            "CalculatedEnd": null,
+            "End": null,
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "60346097315",
+            "RXNorm_Code": "978686",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 6
+        },
+        {
+            "Type": "Request",
+            "Name": "Adzenys 3.1mg exteded release amphetamine",
+            "Start": "2021-04-10",
+            "DispensedDate": "2021-04-10",
+            "CalculatedEnd": "2021-05-10",
+            "End": "2021-05-10",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "70165000530",
+            "RXNorm_Code": "1739827",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 7
+        },
+        {
+            "Type": "Request",
+            "Name": "benzphetamine hydrochloride 25 MG Oral Tablet",
+            "Start": "2020-10-10",
+            "DispensedDate": "2020-10-10",
+            "CalculatedEnd": "2020-11-09",
+            "End": "2020-11-09",
             "Quantity": 10,
             "Duration": 30,
             "doseQuantity": {
@@ -346,27 +218,155 @@
                 "value": 1
             },
             "dosesPerDay": 0.3333333333333333,
-            "strength": [
-                {
-                    "unit": "ug/h",
-                    "value": 75
-                }
-            ],
-            "factor": [
-                7.2
-            ],
-            "MME": 180,
+            "strength": [],
+            "factor": [],
+            "MME": null,
             "Prescriber": "Stan Lee",
             "Pharmacy": "Central Manhattan Pharmacy, INC.",
-            "NDC_Code": "47781042747",
-            "RXNorm_Code": "197696",
+            "NDC_Code": "75834010001",
+            "RXNorm_Code": "904372",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 8
+        },
+        {
+            "Type": "Request",
+            "Name": "armodafinil 250 MG Oral Tablet [Nuvigil]",
+            "Start": "2020-09-01",
+            "DispensedDate": "2020-09-01",
+            "CalculatedEnd": "2020-10-01",
+            "End": "2020-10-01",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "63459022530",
+            "RXNorm_Code": "805661",
+            "Status": null,
+            "Class": [
+                "stimulant"
+            ],
+            "_id": 9
+        },
+        {
+            "Type": "Request",
+            "Name": "secobarbital sodium 100 MG",
+            "Start": "2020-06-10",
+            "DispensedDate": "2020-07-08",
+            "CalculatedEnd": "2020-08-07",
+            "End": "2020-08-07",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "00187422010",
+            "RXNorm_Code": "201625",
+            "Status": null,
+            "Class": [
+                "barbiturate"
+            ],
+            "_id": 10
+        },
+        {
+            "Type": "Request",
+            "Name": "20 ML brexanolone 5 MG/ML Injection",
+            "Start": "2019-07-09",
+            "DispensedDate": "2019-07-09",
+            "CalculatedEnd": "2019-08-08",
+            "End": "2019-08-08",
+            "Quantity": 10,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 0.3333333333333333,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "72152054720",
+            "RXNorm_Code": "2121786",
+            "Status": null,
+            "Class": [
+                "steroid"
+            ],
+            "_id": 11
+        },
+        {
+            "Type": "Request",
+            "Name": "acetaminophen 325 MG / benzhydrocodone 4.08 MG Oral Tablet [Apadaz]",
+            "Start": "2019-02-10",
+            "DispensedDate": "2019-02-10",
+            "CalculatedEnd": "2019-03-12",
+            "End": "2019-03-12",
+            "Quantity": 90,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 3,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "10702034001",
+            "RXNorm_Code": "2118730",
             "Status": null,
             "Class": [
                 "opioid"
+            ],
+            "_id": 12
+        },
+        {
+            "Type": "Request",
+            "Name": "brivaracetam 10 MG Oral Tablet [Briviact]",
+            "Start": "2019-01-10",
+            "DispensedDate": "2019-01-10",
+            "CalculatedEnd": "2019-02-09",
+            "End": "2019-02-09",
+            "Quantity": 30,
+            "Duration": 30,
+            "doseQuantity": {
+                "unit": null,
+                "value": 1
+            },
+            "dosesPerDay": 1,
+            "strength": [],
+            "factor": [],
+            "MME": null,
+            "Prescriber": "Stan Lee",
+            "Pharmacy": "Central Manhattan Pharmacy, INC.",
+            "NDC_Code": "50474037066",
+            "RXNorm_Code": "1739766",
+            "Status": null,
+            "Class": [
+                "antiepileptic"
             ],
             "_id": 13
         }
     ],
     "filename": "Un_Val_MME_Result",
-    "timestamp": "2021-08-27T15:42:08.473Z"
+    "timestamp": "2021-09-08T19:36:38.822Z"
 }

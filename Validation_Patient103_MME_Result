@@ -241,7 +241,7 @@
         },
         {
             "Type": "Request",
-            "Name": "BUTALBITAL 50 MG-ACETAMINOPHEN 300 MG-CAFFEINE 40 MG-CODEINE PHOSPHATE 30 MG CAPSULE",
+            "Name": "acetaminophen 300 MG / butalbital 50 MG / caffeine 40 MG / codeine phosphate 30 MG Oral Capsule",
             "Start": "2021-01-03",
             "DispensedDate": "2021-01-03",
             "CalculatedEnd": "2021-01-08",
@@ -253,15 +253,26 @@
                 "value": 1
             },
             "dosesPerDay": 6,
-            "strength": [],
-            "factor": [],
-            "MME": null,
+            "strength": [
+                {
+                    "unit": "mg",
+                    "value": 30
+                }
+            ],
+            "factor": [
+                0.15
+            ],
+            "MME": 27,
             "Prescriber": "Tricia Fonte",
             "Pharmacy": "Pharmacy A, INC.",
-            "NDC_Code": "00722702805",
-            "RXNorm_Code": null,
+            "NDC_Code": "79739702801",
+            "RXNorm_Code": "1431286",
             "Status": null,
-            "Class": null,
+            "Class": [
+                "stimulant",
+                "opioid",
+                "barbiturate"
+            ],
             "_id": 8
         },
         {
@@ -878,5 +889,5 @@
         }
     ],
     "filename": "Validation_Patient103_MME_Result",
-    "timestamp": "2021-08-27T21:37:54.026Z"
+    "timestamp": "2021-09-08T18:42:23.907Z"
 }
